@@ -24,7 +24,7 @@ development/
 │   ├── javascript.md  # JavaScript notes
 │   ├── css.md         # CSS notes
 │   └── ...            # More topics
-├── logs/              # Daily or weekly logs of learnings
+├── journal/              # Daily or weekly Journal of learnings
 │   ├── 2024/
 │   │   ├── December.md
 │   │   └── November.md
