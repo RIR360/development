@@ -11,3 +11,10 @@
 - Don't work on any feature if you're not clear about the basic requirements.
 - A function is pure if it only use local variables. (ex: parameters and variables defiend inside it's block)
 - If a function uses varaibles outside it's block or from it's lexical environment then it creates a closure.
+- ```js
+  function outer(name) {
+    return function inner(greet) {
+      console.log(greet + " " + name);
+    }
+  }
+  ```
