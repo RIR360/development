@@ -10,3 +10,4 @@
 - Keep learning no matter what. Learning should be a hobby.
 - Don't work on any feature if you're not clear about the basic requirements.
 - A function is pure if it only use local variables. (ex: parameters and variables defiend inside it's block)
+- If a function uses varaibles outside it's block or from it's lexical environment then it creates a closure.
