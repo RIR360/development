@@ -7,3 +7,4 @@
 
 ## 01/02/2025
 - Taking break is a must. Sometimes you need to take break from work and sometimes take break from a project.
+- Keep learning no matter what. Learning should be a hobby.
