@@ -22,3 +22,4 @@
 ## 01/03/2025
 - When you keep yourself busy learning your mind will start generating ideas.
 - **"Before focus you have to restrict"** (restrict the brain from the unproductive things)
+- **Consistency is the key** but it's not possible when there's a 100 things to take you away from it.
