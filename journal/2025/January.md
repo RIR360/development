@@ -23,4 +23,5 @@
 - When you keep yourself busy learning your mind will start generating ideas.
 - **"Before focus you have to restrict"** (restrict the brain from the unproductive things)
 - **Consistency is the key** but it's not possible when there's a 100 things to take you away from it.
-- When you're into web designing, make sure to learn **photoshop** as well. 
+- When you're into web designing, make sure to learn **photoshop** as well.
+- It's always a set of skills that helps you stand out from the crowd.
