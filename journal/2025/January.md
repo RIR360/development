@@ -25,3 +25,6 @@
 - **Consistency is the key** but it's not possible when there's a 100 things to take you away from it.
 - When you're into web designing, make sure to learn **photoshop** as well.
 - It's always a set of skills that helps you stand out from the crowd.
+
+## 01/04/2025
+- You have to setup a growth mindset to yourself to grow.
