@@ -11,7 +11,7 @@
 - Don't work on any feature if you're not clear about the basic requirements.
 - A function is pure if it only use local variables. (ex: parameters and variables defiend inside it's block)
 - If a function uses varaibles outside it's block or from it's lexical environment then it creates a closure.
-- ```js
+  ```js
   function outer(name) {
     return function inner(greet) {
       console.log(greet + " " + name);
@@ -27,6 +27,7 @@
 - It's always a set of skills that helps you stand out from the crowd.
 
 ## 01/04/2025
-- You have to setup a growth mindset to yourself to grow.
+- You have to build a growth mindset to yourself to grow properly.
 - You have to restrict yourself to that point when pointless things won't excite you anymore.
 - Some of our ideas may fail and some may stand out, but we don't know that before we start.
+- Just learned about Web APIs. Forms, History, Worker, Storage, Fetch, Geoposition.
