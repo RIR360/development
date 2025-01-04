@@ -28,3 +28,4 @@
 
 ## 01/04/2025
 - You have to setup a growth mindset to yourself to grow.
+- You have to restrict yourself to that point when pointless things won't excite you anymore.
