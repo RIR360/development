@@ -31,3 +31,6 @@
 - You have to restrict yourself to that point when pointless things won't excite you anymore.
 - Some of our ideas may fail and some may stand out, but we don't know that before we start.
 - Just learned about Web APIs. Forms, History, Worker, Storage, Fetch, Geoposition.
+
+## 01/04/2025
+- When you prioritize things properly, everything passes smoothly. 
