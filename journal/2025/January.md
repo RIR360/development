@@ -32,6 +32,7 @@
 - Some of our ideas may fail and some may stand out, but we don't know that before we start.
 - Just learned about Web APIs. Forms, History, Worker, Storage, Fetch, Geoposition.
 
-## 01/04/2025
+## 01/05/2025
 - When you prioritize things properly, everything passes smoothly. 
 - You should only rest when you're sick not when you're feeling lazy.
+- Engineering is all about problem solving, we solve the problems that normally we can't think of.
