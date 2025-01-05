@@ -34,3 +34,4 @@
 
 ## 01/04/2025
 - When you prioritize things properly, everything passes smoothly. 
+- You should only rest when you're sick not when you're feeling lazy.
