@@ -39,3 +39,4 @@
 
 ## 01/05/2025
 - Sometimes you have to stop doing the things that you want, to be able to do what you have to.
+- If you don't waste any time in the day you'll eventually feel better and better.
