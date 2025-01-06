@@ -41,3 +41,4 @@
 - Sometimes you have to stop doing the things that you want, to be able to do what you have to.
 - If you don't waste any time in the day you'll eventually feel better and better.
 - While solving complex problem, you must take breaks and walk.
+-Walking just works and gives you time to think and approach the problem in a different way.
