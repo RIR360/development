@@ -37,8 +37,9 @@
 - You should only rest when you're sick not when you're feeling lazy.
 - Engineering is all about problem solving, we solve the problems that normally we can't think of.
 
-## 01/05/2025
+## 01/06/2025
 - Sometimes you have to stop doing the things that you want, to be able to do what you have to.
 - If you don't waste any time in the day you'll eventually feel better and better.
 - While solving complex problem, you must take breaks and walk.
 -Walking just works and gives you time to think and approach the problem in a different way.
+- So at the end I'm realizing that, Our sense of purpose must be greater than our urge of laziness. 
