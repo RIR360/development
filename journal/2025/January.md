@@ -45,7 +45,7 @@
 - So at the end I'm realizing that, Our sense of purpose must be greater than our urge of laziness. 
 
 ## 01/07/2025
-- 
+- [something about losing focus]
 
 ## 01/08/2025
 - 
