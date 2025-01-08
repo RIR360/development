@@ -43,3 +43,9 @@
 - While solving complex problem, you must take breaks and walk.
 -Walking just works and gives you time to think and approach the problem in a different way.
 - So at the end I'm realizing that, Our sense of purpose must be greater than our urge of laziness. 
+
+## 01/07/2025
+- 
+
+## 01/08/2025
+- 
