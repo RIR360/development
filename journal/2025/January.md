@@ -48,4 +48,4 @@
 - [something about losing focus]
 
 ## 01/08/2025
-- 
+- [the strong addiction problem]
