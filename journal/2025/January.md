@@ -45,7 +45,8 @@
 - So at the end I'm realizing that, Our sense of purpose must be greater than our urge of laziness. 
 
 ## 01/07/2025
-- Focus is a precious thing that we often don't realixr.
+- Focus is a precious thing that we often don't realize.
+- It's natural to lose it, but it's so dumb to not regaining it immediately.
 
 ## 01/08/2025
 - [the strong addiction problem]
