@@ -45,7 +45,7 @@
 - So at the end I'm realizing that, Our sense of purpose must be greater than our urge of laziness. 
 
 ## 01/07/2025
-- [something about losing focus]
+- Focus is a precious thing that we often don't realixr.
 
 ## 01/08/2025
 - [the strong addiction problem]
