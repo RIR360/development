@@ -49,4 +49,4 @@
 - It's natural to lose it, but it's so dumb to not regaining it immediately.
 
 ## 01/08/2025
-- [the strong addiction problem]
+- The focus killer is your wrong addiction. It takes you away and away from your pupose.
