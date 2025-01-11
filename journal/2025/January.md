@@ -50,3 +50,12 @@
 
 ## 01/08/2025
 - The focus killer is your wrong addiction. It takes you away and away from your pupose.
+
+## 01/09/2025
+-
+
+## 01/10/2025
+- 
+
+## 01/11/2025
+- 
