@@ -52,7 +52,7 @@
 - The focus killer is your wrong addiction. It takes you away and away from your pupose.
 
 ## 01/09/2025
--
+- It's all about how you tackle your setbacks.
 
 ## 01/10/2025
 - 
