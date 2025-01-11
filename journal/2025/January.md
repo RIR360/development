@@ -55,7 +55,7 @@
 - It's all about how you tackle your setbacks.
 
 ## 01/10/2025
-- 
+- Progress is better than perfection. We must keep the wheel moving.
 
 ## 01/11/2025
 - 
