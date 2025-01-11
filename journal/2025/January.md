@@ -58,4 +58,4 @@
 - Progress is better than perfection. We must keep the wheel moving.
 
 ## 01/11/2025
-- 
+- Instead of thinking to make the work done, try focusing on building a system that will eventually reduce it to done!
