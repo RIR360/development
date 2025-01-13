@@ -59,3 +59,6 @@
 
 ## 01/11/2025
 - Instead of thinking to make the work done, try focusing on building a system that will eventually reduce it to done!
+
+## 01/13/2025
+- Habit building is crucial that we often overlook.
