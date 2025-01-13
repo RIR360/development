@@ -62,3 +62,4 @@
 
 ## 01/13/2025
 - Habit building is crucial that we often overlook.
+- Don't spend time on entertainment (you barely need it), invest those time onto yourself.
