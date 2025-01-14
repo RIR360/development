@@ -66,3 +66,4 @@
 
 ## 01/14/2025
 - Async and await solved my callback hell or the piramid of doom very nicely.
+- Then chaining is also cool and I've used it at many places, it also solves the issue of callback hell.
