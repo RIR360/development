@@ -63,3 +63,6 @@
 ## 01/13/2025
 - Habit building is crucial that we often overlook.
 - Don't spend time on entertainment (you barely need it), invest those time onto yourself.
+
+## 01/14/2025
+- Async and await solved my callback hell or the piramid of doom very nicely.
