@@ -79,3 +79,7 @@
 ## 01/15/2025
 - Sometimes you have to put 0 tolerance on some activites.
 - It depends upto you about the activities that you must avoid at any cost.
+- There are some common ones:
+  - Short videos (Reduces attention span)
+  - P*rn (Too much high dopamine that nothing else can fill the void)
+  - RPG Games (Too much indulgement and dopamine hit)
