@@ -78,3 +78,4 @@
 
 ## 01/15/2025
 - Sometimes you have to put 0 tolerance on some activites.
+- It depends upto you about the activities that you must avoid at any cost.
