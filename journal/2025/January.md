@@ -88,3 +88,4 @@
 ## 01/16/2025
 - Decay in focus and energy occurs while you're dealing with difficulties.
 - While that happens you need something to hold onto. That's your routine and the tasks you planned to do the day before.
+- Stop indulging yourself in the matters that you can't control but you wish to.
