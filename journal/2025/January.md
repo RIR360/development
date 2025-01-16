@@ -84,3 +84,6 @@
   - P*rn (Too much high dopamine release)
   - RPG Games (Too much indulgement and dopamine hit)
 - List all of them, find replacement or avoid them at any cost to get going.
+
+## 01/16/2025
+- Decay in focus and energy occurs while you're dealing with difficulties.
