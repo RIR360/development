@@ -90,3 +90,6 @@
 - While that happens you need something to hold onto. That's your routine and the tasks you planned to do the day before.
 - Stop indulging yourself in the matters that you can't control but you wish to.
 - Use Zero tolerance method by saying to yourself that you're not allowed to think about that.
+
+## 01/17/2025
+- Daydreaming becoming another problem out of nowhere.
