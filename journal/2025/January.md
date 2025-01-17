@@ -94,3 +94,4 @@
 ## 01/17/2025
 - Daydreaming becoming another problem out of nowhere.
   - For ex: You're thinking about a solution of something that you shouldn't be thinking of but it feels nice.
+- Defining accurate time for tasks is one of tough thing to do, you don't know when you start becoming perfectionist.
