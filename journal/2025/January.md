@@ -96,3 +96,6 @@
   - For ex: You're thinking about a solution of something that you shouldn't be thinking of but it feels nice.
 - Defining accurate time for tasks is one of tough thing to do, you don't know when you start becoming perfectionist.
 - When you start becoming perfectionist you spent a lot more time on the things that was okay for the job.
+
+## 01/18/2025
+- Overwhelm comes when you see the problem as one massive task.
