@@ -100,4 +100,5 @@
 ## 01/18/2025
 - Overwhelm comes when you see the problem as one massive task.
 - That breaks you confident into pieces and you distract yourself for relief.
-- Distracting yourself is the last mistake you make. You start going off-track after than. 
+- Distracting yourself is the last mistake you make. You start going off-track after than.
+- What you should do instead is, **PLAN**!
