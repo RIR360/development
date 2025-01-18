@@ -102,3 +102,6 @@
 - That breaks you confident into pieces and you distract yourself for relief.
 - Distracting yourself is the last mistake you make. You start going off-track after than.
 - What you should do instead is, **PLAN**!
+  - Plan how many obstacles you need to overcome.
+  - Plan what is the first step.
+  - Plan what is the last step where you stop. 
