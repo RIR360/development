@@ -105,3 +105,6 @@
   - Plan how many obstacles you need to overcome.
   - Plan what is the first step.
   - Plan what is the last step where you stop. 
+
+## 01/19/2025
+- You shouldn't run any automatic tasks without prior knowledge in the production.
