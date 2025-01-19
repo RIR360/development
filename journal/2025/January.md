@@ -109,3 +109,4 @@
 ## 01/19/2025
 - You shouldn't run any automatic tasks without prior knowledge in the production.
 - I nearly broke ubuntu 22.04 with with ``` sudo apt autoremove ``` command today in the production.
+- A lot of important files were removed from the system making it unable to work properly.
