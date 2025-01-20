@@ -111,3 +111,6 @@
 - I nearly broke ubuntu 22.04 with with ``` sudo apt autoremove ``` command today in the production.
 - A lot of important files were removed from the system making it unable to work properly.
 - Couldn't believe it was that destructive.
+
+## 01/20/2025
+- Focus is easy where you're at speed.
