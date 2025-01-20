@@ -115,3 +115,4 @@
 ## 01/20/2025
 - Focus is easy where you're at speed.
 - Don't lose the pace but take breaks.
+- While doing your job, break the keyboard.
