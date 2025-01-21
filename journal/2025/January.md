@@ -119,3 +119,4 @@
 
 ## 01/21/2024
 - Maintaining the routine is best for well-being.
+- Routine ensures you are doing everything little by little. Minimizing the stress.
