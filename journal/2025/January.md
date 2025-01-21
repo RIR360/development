@@ -120,3 +120,4 @@
 ## 01/21/2024
 - Maintaining the routine is best for well-being.
 - Routine ensures you are doing everything little by little. Minimizing the stress.
+- As a developer you must be careful about hard coding, it's best not to do it at all.
