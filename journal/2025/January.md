@@ -125,4 +125,5 @@
   - A friendly **aggregation query** on a simplest component on your app can take down the server!
 
 ## 01/22/2025
-- Sometimes it's a theoritical limitation and sometime's it's a practical.
+- Sometimes it's a theoritical limitation and sometime's it's a practical limitation.
+- Don't make it perfect but atleast match the level of the place it's portrayed on.
