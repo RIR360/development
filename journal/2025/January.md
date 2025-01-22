@@ -123,3 +123,6 @@
 - As a developer you must be careful about hard coding, it's best not to do it at all.
 - Slow query is the another thing that is so  terrifying me.
   - A friendly **aggregation query** on a simplest component on your app can take down the server!
+
+## 01/22/2025
+- Sometimes it's a theoritical limitation and sometime's it's a practical.
