@@ -133,5 +133,7 @@
 - Anyway, the world of web development is always evloving you must keep learning all the time.
 - I've learned docker recently. it's really amazing.
 - Got introduced to new terms and components of it:
-  - DockerFile
-  - 
+  - Docker File
+  - Docker Engine
+  - Docker Compose
+  - Docker CLI
