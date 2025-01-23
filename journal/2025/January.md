@@ -129,3 +129,4 @@
 - Don't make it perfect but atleast match the level of the place it's portrayed on.
 
 ## 01/23/2025
+- Doing a high dopamine activity seems fine if done in small scale but can be a lure to drag you off the track.
