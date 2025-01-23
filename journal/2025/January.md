@@ -127,3 +127,5 @@
 ## 01/22/2025
 - Sometimes it's a theoritical limitation and sometime's it's a practical limitation.
 - Don't make it perfect but atleast match the level of the place it's portrayed on.
+
+## 01/23/2025
