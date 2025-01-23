@@ -132,3 +132,6 @@
 - Doing a high dopamine activity seems fine if done in small scale but can be a lure to drag you off the track.
 - Anyway, the world of web development is always evloving you must keep learning all the time.
 - I've learned docker recently. it's really amazing.
+- Got introduced to new terms and components of it:
+  - DockerFile
+  - 
