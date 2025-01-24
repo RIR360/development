@@ -142,3 +142,5 @@
 - You must keep grinding, always focus on the tasks that you must finish.
 - Do a little but with accuracy that'll eventually improve your speed at some point.
 - Saving time is the best thing you can do.
+  - By not doing what you shouldn't.
+  
