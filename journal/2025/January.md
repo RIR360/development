@@ -144,4 +144,4 @@
 - Saving time is the best thing you can do.
   - By not doing what you shouldn't.
   - By not dealing with something that can be avoided.
-  
+  - By not doing unnecessary work to make it perfect.
