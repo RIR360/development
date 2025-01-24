@@ -143,4 +143,5 @@
 - Do a little but with accuracy that'll eventually improve your speed at some point.
 - Saving time is the best thing you can do.
   - By not doing what you shouldn't.
+  - By not dealing with something that can be avoided.
   
