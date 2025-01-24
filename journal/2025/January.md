@@ -140,3 +140,4 @@
 
 ## 01/24/2025
 - You must keep grinding, always focus on the tasks that you must finish.
+- Do a little but with accuracy that'll eventually improve your speed at some point.
