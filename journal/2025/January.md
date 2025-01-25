@@ -149,4 +149,4 @@
 ## 01/25/2025
 - Planning environment should be a quite place and clean interface.
 - Automation on windows is easy with `ahk` or Auto Hot Key language.
-- 
+- You must automate the tasks you often do to speed up the process. The world is too fast.
