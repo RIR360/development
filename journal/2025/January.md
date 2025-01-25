@@ -148,3 +148,4 @@
 
 ## 01/25/2025
 - Planning environment should be a quite place and clean interface.
+- Automation on windows is easy with `ahk` or Auto Hot Key language.
