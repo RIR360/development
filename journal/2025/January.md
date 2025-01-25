@@ -147,4 +147,4 @@
   - By not doing unnecessary work to make it perfect.
 
 ## 01/25/2025
-- 
+- Planning environment should be a quite place and clean interface.
