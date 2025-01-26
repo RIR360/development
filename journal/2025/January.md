@@ -152,4 +152,4 @@
 - You must automate the tasks you often do to speed up the process. The world is too fast.
 
 ## 01/26/2025
-- 
+- I recently lost my flow just because of I took things less seriously for some moment.
