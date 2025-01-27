@@ -156,4 +156,4 @@
 - Back to back realization, no matter what nothing can come before your routine.
 
 ## 01/27/2025
-- 
+- I think everyone should be doing business in any kind or form.
