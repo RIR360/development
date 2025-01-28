@@ -161,3 +161,4 @@
 - We must do a lot of tasks for sure, but keep atleast one primary job/business at a moment.
 
 ## 01/28/2025
+- If you fail to maintain your routine you'll fall for sure.
