@@ -162,3 +162,4 @@
 
 ## 01/28/2025
 - If you fail to maintain your routine you'll fall for sure.
+- Waking up in the appropriate time in the morning is also crucial. 
