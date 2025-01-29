@@ -167,3 +167,5 @@
 
 ## 01/29/2025
 - The purpose of life should come first and everything after that.
+- Without that purpose you may wander and fall over and over again.
+- 
