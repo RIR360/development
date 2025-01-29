@@ -168,4 +168,4 @@
 ## 01/29/2025
 - The purpose of life should come first and everything after that.
 - Without that purpose you may wander and fall over and over again.
-- 
+- The next milestone you're pursuing should **help** you toward that purpose not **divert** you from that.
