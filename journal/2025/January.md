@@ -164,3 +164,6 @@
 - If you fail to maintain your routine you'll fall for sure.
 - Waking up in the appropriate time in the morning is also crucial.
 - Waking up in the wrong time in the morning will greatly reduce your energy.
+
+## 01/29/2025
+- The purpose of life should come first and everything after that.
