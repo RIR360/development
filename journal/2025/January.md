@@ -174,3 +174,4 @@
 ## 01/30/2025
 - We should keep grinding and buy us time to unwind and have some relax time.
 - We have to buy the time and obviously you don't buy it often that will make you broke.
+- Time is the most important thing from all of his creations.
