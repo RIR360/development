@@ -170,3 +170,6 @@
 - Without that purpose you may wander and fall over and over again.
 - The next milestone you're pursuing should **help** you toward that purpose not **divert** you from that.
 - This is why even after completing things you may feel lost. 
+
+## 01/30/2025
+- 
