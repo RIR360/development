@@ -178,3 +178,4 @@
 
 ## 01/31/2025
 - The last day of january 25.
+- but feeling pressured because of not being able to handle all the stuffs properly yet.
