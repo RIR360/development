@@ -178,4 +178,5 @@
 
 ## 01/31/2025
 - The last day of january 25.
-- but feeling pressured because of not being able to handle all the stuffs properly yet.
+- But feeling pressured because of not being able to handle all the stuffs properly yet.
+- But maintained a full month streak on github and dev.io anyway.
