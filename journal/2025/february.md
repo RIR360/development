@@ -5,3 +5,4 @@
 - Sometimes you are tested, you're tested with losses and a lot of losses. You must hold your ground.
 - You may always feel the urge to avoid and bunk the routine but that's where you start to fall.
 - Installed docker on our server after a lot of struggles and errors.
+- The most important this is to do the basics, writing a proper `dockerfile`, `docker-compose.yml` should do the job. 
