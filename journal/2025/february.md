@@ -9,4 +9,4 @@
 
 ## 02/03/2025
 - When you work be a robot - no distractions, when you're relaxing be a human - no overtime.
-- 
+- Round robin method works so well handling your daily tasks, rotating between jobs.
