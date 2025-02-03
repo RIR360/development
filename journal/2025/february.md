@@ -8,4 +8,5 @@
 - The most important this is to do the basics, writing a proper `dockerfile`, `docker-compose.yml` should do the job. 
 
 ## 02/03/2025
+- When you work be a robot - no distractions, when you're relaxing be a human - no overtime.
 - 
