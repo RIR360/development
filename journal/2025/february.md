@@ -13,4 +13,4 @@
 - Instead of restricting yourself from everything, reward yourself after completing the tasks for a time limit.
 
 ## 02/04/2025
-- 
+- Don't invent the wheel never again, but it's mandatory to redesign the wheel.
