@@ -14,3 +14,4 @@
 
 ## 02/04/2025
 - Don't invent the wheel never again, but it's mandatory to redesign the wheel.
+- Backup homie saved me. It saved me from disaster today.
