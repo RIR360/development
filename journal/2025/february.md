@@ -11,3 +11,6 @@
 - When you work be a robot - no distractions, when you're relaxing be a human - no overtime.
 - Round robin method works so well handling your daily tasks, rotating between jobs.
 - Instead of restricting yourself from everything, reward yourself after completing the tasks for a time limit.
+
+## 02/04/2025
+- 
