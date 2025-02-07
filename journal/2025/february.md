@@ -28,4 +28,4 @@
 - Wake up in the morning in appropiate time and be serious about it.
 
 ## 02/08/2025
-- 
+- Don't get involved with less beneficial activities, if stuck anyway then do it correctly.
