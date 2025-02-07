@@ -21,4 +21,4 @@
 - Social events will cut a lot of time from you but it's fun though. 
 
 ## 02/06/2025
-- 
+- Whenever you feel down, you have to immediately look back to your purpose. This is important.
