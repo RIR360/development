@@ -18,4 +18,7 @@
 - I made a tool that backups quickly, that's `Backuo homie`
 
 ## 02/05/2025
-- Social events will cut a lot of time from you but it's fun though.
+- Social events will cut a lot of time from you but it's fun though. 
+
+## 02/06/2025
+- 
