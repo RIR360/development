@@ -26,3 +26,6 @@
 
 ## 02/07/2025
 - Wake up in the morning in appropiate time and be serious about it.
+
+## 02/08/2025
+- 
