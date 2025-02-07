@@ -23,3 +23,6 @@
 ## 02/06/2025
 - Whenever you feel down, you have to immediately look back to your purpose. This is important.
 - Otherwise you'll fall down. You must remind why you're doing all this in the first place. 
+
+## 02/07/2025
+- Wake up in the morning in appropiate time and be serious about it.
