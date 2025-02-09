@@ -30,3 +30,6 @@
 ## 02/08/2025
 - Don't get involved with less beneficial activities, if stuck anyway then do it correctly.
 - Don't look back and think about the same thing again. Keep life easier.
+
+## 02/09/2025
+- 
