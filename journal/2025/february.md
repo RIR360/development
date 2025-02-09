@@ -32,4 +32,4 @@
 - Don't look back and think about the same thing again. Keep life easier.
 
 ## 02/09/2025
-- 
+- Always learn new technologies **NO FEAR**!
