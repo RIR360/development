@@ -36,4 +36,5 @@
 - You must keep moving and learning, don't stop.
 
 ## 02/10/2025
+- Staying up in the track is all about coming back to the routine.
 - 
