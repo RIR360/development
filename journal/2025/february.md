@@ -38,3 +38,4 @@
 ## 02/10/2025
 - Staying up in the track is all about coming back to the routine.
 - Never let yourself down specially when things are going bad.
+- Always tell yourself you can do it anyway. Just believe in it.
