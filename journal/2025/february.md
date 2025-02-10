@@ -34,3 +34,6 @@
 ## 02/09/2025
 - Always learn new technologies **NO FEAR**!
 - You must keep moving and learning, don't stop.
+
+## 02/10/2025
+- 
