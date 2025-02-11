@@ -43,3 +43,4 @@
 
 ## 02/11/2025
 - If you wanna be serious about your life, be serious about your daily routine first.
+- NO FUN before the routine is done or about to complete.
