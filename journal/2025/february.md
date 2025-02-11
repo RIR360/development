@@ -40,3 +40,6 @@
 - Never let yourself down specially when things are going bad.
 - Always tell yourself you can do it anyway. Just believe in it.
 - I think it's an important factor, every resources are there online but mental power is inside you.
+
+## 02/11/2025
+-
