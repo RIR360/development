@@ -42,4 +42,4 @@
 - I think it's an important factor, every resources are there online but mental power is inside you.
 
 ## 02/11/2025
--
+- If you wanna be serious about your life, be serious about your daily routine first.
