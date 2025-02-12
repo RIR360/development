@@ -46,3 +46,6 @@
 - NO FUN before the routine is done or about to complete.
 - Testing is the most crucial part of programming.
 - Making a good testing system with stress testing and other methods will help you in the long run.
+
+## 02/12/2025
+- 
