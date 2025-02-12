@@ -50,3 +50,4 @@
 ## 02/12/2025
 - Always try to automate tasks and also be ready to face automation debt.
 - **Automation Debt** is a case where you took more time automating it then just doing the job.
+- Sometimes it's worth it in the long run and sometimes it's a failure. 
