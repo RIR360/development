@@ -48,4 +48,4 @@
 - Making a good testing system with stress testing and other methods will help you in the long run.
 
 ## 02/12/2025
-- 
+- Always try to automate tasks and also be ready to face automation debt.
