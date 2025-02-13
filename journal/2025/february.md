@@ -57,3 +57,6 @@
 - You have to earn the time to chill and relax only after finishing the daily tasks.
 - Life is all about trade-offs, you have to take something in the exchange of something else.
 - Just revised the python for competitive programming for today's contest.
+- Normal python I/O is slower so I use:
+  - Input: `sys.stdin.readline() `
+  - Output: `sys.stdin.write() `
