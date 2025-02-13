@@ -55,3 +55,4 @@
 
 ## 02/13/2025
 - You have to earn the time to chill and relax only after finishing the daily tasks.
+- Life is all about trade-offs, you have to take something in the exchange of something else.
