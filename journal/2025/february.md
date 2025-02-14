@@ -63,3 +63,4 @@
 
 ## 02/14/2025
 - When you're in solitude, you tend to think too much about stuff rather than doing.
+- Our brain desn't like boredom, so be careful when you plan to be more focused. 
