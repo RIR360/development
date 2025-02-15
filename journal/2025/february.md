@@ -69,3 +69,4 @@
 ## 02/15/2025
 - You may multiple times but don't be upset and lose hope.
 - Use Automation to simplify your tasks.
+- The rule of thumb for today is, don't fear about the dificulty about a task beforehand.
