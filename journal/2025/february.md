@@ -68,3 +68,4 @@
 
 ## 02/15/2025
 - You may multiple times but don't be upset and lose hope.
+- Use Automation to simplify your tasks.
