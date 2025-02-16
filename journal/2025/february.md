@@ -71,3 +71,6 @@
 - Use Automation to simplify your tasks.
 - The rule of thumb for today is, don't fear about the dificulty about a task beforehand.
 - Because everything gets easier as you give time, but if you fear you lose already. 
+
+## 02/16/2025
+- 
