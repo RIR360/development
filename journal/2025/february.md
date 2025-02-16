@@ -75,4 +75,6 @@
 ## 02/16/2025
 - You have to keep improving your system or environment.
 - When you have a feeling of falling behind you need ask some questions:
-  
+  - Is my environemnt OKAY?
+  - Am I serious about my purpose?
+  - What causing the frictions?
