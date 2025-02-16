@@ -73,4 +73,4 @@
 - Because everything gets easier as you give time, but if you fear you lose already. 
 
 ## 02/16/2025
-- 
+- You have to keep improving your system or environment. 
