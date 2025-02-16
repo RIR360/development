@@ -78,3 +78,4 @@
   - Is my environemnt OKAY?
   - Am I serious about my purpose?
   - What causing the frictions?
+- Keep a folder of your quick accessed files and links.
