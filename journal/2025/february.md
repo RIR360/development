@@ -81,4 +81,4 @@
 - Keep a folder of your quick accessed files and links.
 
 ## 02/17/2025
-- 
+- It's really important to keep track of your dailyl progress and overall growth.
