@@ -82,3 +82,4 @@
 
 ## 02/17/2025
 - It's really important to keep track of your dailyl progress and overall growth.
+- Progress can be tracked in many ways, try to use the easiest way to avoid the overhead time. 
