@@ -82,4 +82,5 @@
 
 ## 02/17/2025
 - It's really important to keep track of your dailyl progress and overall growth.
-- Progress can be tracked in many ways, try to use the easiest way to avoid the overhead time. 
+- Progress can be tracked in many ways, try to use the easiest way to avoid the overhead time.
+- Although I can built a system for tracking my progress so perfectly but it'll take a lot of time. Thus I can use excel for data input and quick graph previes as well. 
