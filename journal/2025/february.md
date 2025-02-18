@@ -86,4 +86,4 @@
 - Although I can built a system for tracking my progress so perfectly but it'll take a lot of time. Thus I can use excel for data input and quick graph previes as well. 
 
 ## 02/18/2025
-- 
+- Prioritize the time more than any other options you have.
