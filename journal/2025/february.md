@@ -90,3 +90,4 @@
 - Always try to reduce the time by any means.
 - You need to invest in yourself and your workstation first.
 - Windsurf editor seems so great, it's first impresison to me was superb.
+- Trying out this editor to user the superpower of AI.
