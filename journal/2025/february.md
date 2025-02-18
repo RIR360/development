@@ -88,4 +88,5 @@
 ## 02/18/2025
 - Prioritize the time more than any other options you have.
 - Always try to reduce the time by any means.
-- You need to invest in yourself and your workstation first. 
+- You need to invest in yourself and your workstation first.
+- Windsurf editor seems so great, it's first impresison to me was superb.
