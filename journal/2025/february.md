@@ -91,3 +91,6 @@
 - You need to invest in yourself and your workstation first.
 - Windsurf editor seems so great, it's first impresison to me was superb.
 - Trying out this editor to user the superpower of AI.
+
+## 02/19/2025
+- 
