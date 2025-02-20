@@ -94,3 +94,6 @@
 
 ## 02/19/2025
 - Dopamine detox is the first step to get out of a setback.
+
+## 02/20/2025
+- 
