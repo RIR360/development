@@ -96,4 +96,4 @@
 - Dopamine detox is the first step to get out of a setback.
 
 ## 02/20/2025
-- 
+- Missing a day feels so bad. But without the routine and streak you go off track. 
