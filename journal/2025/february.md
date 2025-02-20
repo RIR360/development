@@ -99,4 +99,4 @@
 - Missing a day feels so bad. But without the routine and streak you go off track. 
 
 ## 02/21/2025
-- 
+- No matter what always tell yourself you can do it.
