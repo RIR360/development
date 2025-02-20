@@ -100,3 +100,4 @@
 
 ## 02/21/2025
 - No matter what always tell yourself you can do it.
+- Assure yourself all the time even it seems hard, you'll eventually make it.
