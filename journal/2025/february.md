@@ -105,3 +105,4 @@
 ## 02/22/2025
 - Remember there are two types of energy good and evil.
 - Energy is an essential thing that we often don't realize.
+- Those energies exists that we can't see but we have to choose the good one.
