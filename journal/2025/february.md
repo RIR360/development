@@ -103,4 +103,4 @@
 - Assure yourself all the time even it seems hard, you'll eventually make it.
 
 ## 02/22/2025
-- 
+- Remember there are two types of energy good and evil.
