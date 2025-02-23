@@ -109,4 +109,4 @@
 - Lastly, Habits are your duty not a choice. Adapt this mindset.
 
 ## 02/23/2025
-- 
+- You have to understand, you have to learn how things work, how your life works.
