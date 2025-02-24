@@ -113,3 +113,6 @@
 - You brain calms down you know what's going on.
 - You can use all the things around you, but overuse is so bad.
 - If you feel sleepy working, you can give yourself some dopamine for some time and go back to work.
+
+## 02/24/2025
+- 
