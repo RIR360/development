@@ -115,4 +115,5 @@
 - If you feel sleepy working, you can give yourself some dopamine for some time and go back to work.
 
 ## 02/24/2025
-- Setbacks will be there no matter what you do. You have to be patient and faithful. 
+- Setbacks will be there no matter what you do. You have to be patient and faithful.
+- Fatigue and exhaustion will catch you off guard. You need to deal with it, giving up is not the solution. 
