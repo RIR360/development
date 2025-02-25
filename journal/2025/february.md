@@ -121,3 +121,4 @@
 
 ## 02/25/2025
 - Don't forget about your health while grinding.
+- You can't push forever. You have to take rest.
