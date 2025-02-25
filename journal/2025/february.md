@@ -120,4 +120,4 @@
 - Your routine is the pillar that you hold on in these circumstances.
 
 ## 02/25/2025
-- 
+- Don't forget about your health while grinding.
