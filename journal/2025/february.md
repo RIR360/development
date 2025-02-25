@@ -117,4 +117,7 @@
 ## 02/24/2025
 - Setbacks will be there no matter what you do. You have to be patient and faithful.
 - Fatigue and exhaustion will catch you off guard. You need to deal with it, giving up is not the solution.
-- Your routine is the pillar that you hold on in these circumstances. 
+- Your routine is the pillar that you hold on in these circumstances.
+
+## 02/25/2025
+- 
