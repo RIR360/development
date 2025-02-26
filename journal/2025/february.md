@@ -126,3 +126,4 @@
 
 ## 02/26/2025
 - Sometimes you fail to do your tasks for no reason. That's because you wait.
+- When you wait for a good mood or time for the task, You slowly go off track.
