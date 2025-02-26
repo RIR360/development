@@ -123,3 +123,6 @@
 - Don't forget about your health while grinding.
 - You can't push forever. You have to take rest.
 - Spaced repetition is the best hack for memorizing stuff. 
+
+## 02/26/2025
+- 
