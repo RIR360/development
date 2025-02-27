@@ -130,4 +130,4 @@
 - You may not understand every events of your life, you just leave it and do your task.
 
 ## 02/27/2025
-- 
+- When your environment aligns with your goals, that's the optimal state.
