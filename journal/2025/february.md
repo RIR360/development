@@ -131,3 +131,5 @@
 
 ## 02/27/2025
 - When your environment aligns with your goals, that's the optimal state.
+- You see your failure more than you see the success.
+- 
