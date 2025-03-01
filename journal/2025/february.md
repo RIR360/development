@@ -137,3 +137,4 @@
 ## 02/28/2025
 - Life is all about the balance between things.
 - Moderation is the key.
+- Your habit cycle or the routine should make it easy to balance.
