@@ -133,3 +133,6 @@
 - When your environment aligns with your goals, that's the optimal state.
 - You see your failure more than you see the success.
 - It's improve a lot it affects and a little bit but if you fail some you lose a lot.
+
+## 02/28/2025
+- 
