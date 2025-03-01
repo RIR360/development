@@ -135,4 +135,4 @@
 - It's improve a lot it affects and a little bit but if you fail some you lose a lot.
 
 ## 02/28/2025
-- 
+- Life is all about the balance between things.
