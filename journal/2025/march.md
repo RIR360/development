@@ -8,4 +8,4 @@
 - Time bounded working is a gem if you can use it properly.
 
 ## 03/03/2025
-- 
+- Start a work after setting a time, so that you don't overdo it or do it less than expected.
