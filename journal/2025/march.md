@@ -9,3 +9,4 @@
 
 ## 03/03/2025
 - Start a work after setting a time, so that you don't overdo it or do it less than expected.
+- Do not aim to sit and finish a task, rather aim to try solving it for an hour or some more time.
