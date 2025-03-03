@@ -6,3 +6,6 @@
 - Try to stay aware of your actions. Sometimes it's hard but It'll save you from bad decisions.
 - Month of Ramadan 25 started, everything becoming calmer and calmer.
 - Time bounded working is a gem if you can use it properly.
+
+## 03/03/2025
+- 
