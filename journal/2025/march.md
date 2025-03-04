@@ -14,4 +14,4 @@
 - Make an reward system in your working environment to keep making progress.
 
 ## 03/04/2025
-- 
+- Eating the frog is a good strategy, start with the most painful task first. 
