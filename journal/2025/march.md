@@ -12,3 +12,6 @@
 - Do not aim to sit and finish a task, rather aim to try solving it for an hour or some more time.
 - When the task is hard and complex to finish quickly then time boudning becomes your friend.
 - Make an reward system in your working environment to keep making progress.
+
+## 03/04/2025
+- 
