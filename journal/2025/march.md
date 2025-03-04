@@ -15,3 +15,4 @@
 
 ## 03/04/2025
 - Eating the frog is a good strategy, start with the most painful task first. 
+- I was heavily inspired by the "round robin" method of CPU scheduling, it's really handy.
