@@ -19,4 +19,4 @@
 - Round robin method assign a specific time for each task in the list then it loops between them.
 
 ## 03/05/2025
-- 
+- After setting up your environment you must limit the dopamine gradually.
