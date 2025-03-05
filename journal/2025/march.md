@@ -17,3 +17,6 @@
 - Eating the frog is a good strategy, start with the most painful task first. 
 - I was heavily inspired by the "round robin" method of CPU scheduling, it's really handy.
 - Round robin method assign a specific time for each task in the list then it loops between them.
+
+## 03/05/2025
+- 
