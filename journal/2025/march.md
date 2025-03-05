@@ -20,3 +20,4 @@
 
 ## 03/05/2025
 - After setting up your environment you must limit the dopamine gradually.
+- Your routine, habits, dasktop arrangement is all a part of your environment.
