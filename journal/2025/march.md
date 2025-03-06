@@ -26,3 +26,4 @@
 ## 03/06/2025
 - First you overcome your internal fear then you tackle the world.
 - For a production app, testing is the most important part. I must repeat that.
+- I've suffered a lot for not having the proper test data and conditions.
