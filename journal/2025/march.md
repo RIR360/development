@@ -22,3 +22,6 @@
 - After setting up your environment you must limit the dopamine gradually.
 - Your routine, habits, dasktop arrangement is all a part of your environment.
 - Plan and action is king, you must follow the rule of planning first then taking action.
+
+## 03/06/2025
+- 
