@@ -24,4 +24,4 @@
 - Plan and action is king, you must follow the rule of planning first then taking action.
 
 ## 03/06/2025
-- 
+- First you overcome your internal fear then you tackle the world.
