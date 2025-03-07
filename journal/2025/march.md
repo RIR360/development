@@ -30,4 +30,4 @@
 - Whenever submitting to the production you must test it with various data.
 
 ## 03/07/2025
-- 
+- Focus on learning the concepts, nowadys you already have AI to implement them.
