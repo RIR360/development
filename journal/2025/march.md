@@ -31,3 +31,4 @@
 
 ## 03/07/2025
 - Focus on learning the concepts, nowadys you already have AI to implement them.
+- Sleep time matters, it affects your confidence. Ensure to work on them.
