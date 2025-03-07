@@ -32,4 +32,5 @@
 ## 03/07/2025
 - Focus on learning the concepts, nowadys you already have AI to implement them.
 - Sleep time matters, it affects your confidence. Ensure to work on them.
-- Night time is made for sleep and day time is for grinding. That's a fact. 
+- Night time is made for sleep and day time is for grinding. That's a fact.
+- If you struggle with your time then improve your sleep time.
