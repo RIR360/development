@@ -28,3 +28,6 @@
 - For a production app, testing is the most important part. I must repeat that.
 - I've suffered a lot for not having the proper test data and conditions.
 - Whenever submitting to the production you must test it with various data.
+
+## 03/07/2025
+- 
