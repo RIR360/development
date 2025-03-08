@@ -38,3 +38,4 @@
 ## 03/08/2025
 - Roadmap.sh is a gem, the way it helps to follow a timeline is amazing.
 - I always thought I don't have enough for the portfolio, but that was a mistake.
+- No matter what you have under your belt you should go for your portfolio.
