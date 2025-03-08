@@ -34,3 +34,6 @@
 - Sleep time matters, it affects your confidence. Ensure to work on them.
 - Night time is made for sleep and day time is for grinding. That's a fact.
 - If you struggle with your time then improve your sleep time.
+
+## 03/08/2025
+- 
