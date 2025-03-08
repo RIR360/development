@@ -36,4 +36,4 @@
 - If you struggle with your time then improve your sleep time.
 
 ## 03/08/2025
-- 
+- Roadmap.sh is a gem, the way it helps to follow a timeline is amazing.
