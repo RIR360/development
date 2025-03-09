@@ -40,3 +40,6 @@
 - I always thought I don't have enough for the portfolio, but that was a mistake.
 - No matter what you have under your belt you should go for your portfolio.
 - Before making it public, keep it private for months and improve.
+
+## 03/09/2025
+- 
