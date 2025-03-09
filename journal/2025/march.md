@@ -45,3 +45,4 @@
 - If you stay with your routine and the blessing of god, you're unstopable.
 - Need to automate more, but at this point, I need more advanced capabilities and use python.
 - Sacrificing is the only way to grow but when to really consume and enjoy?
+- Consume a little bit everyday or weekly, good content, good entertainment.
