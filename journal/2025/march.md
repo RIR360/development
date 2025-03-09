@@ -42,4 +42,4 @@
 - Before making it public, keep it private for months and improve.
 
 ## 03/09/2025
-- 
+- If you stay with your routine and the blessing of god, you're unstopable.
