@@ -48,4 +48,4 @@
 - Consume a little bit everyday or weekly, good content, good entertainment.
 
 ## 03/10/2025
-- 
+- In order to win, you have to keep winining.
