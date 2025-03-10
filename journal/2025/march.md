@@ -49,3 +49,4 @@
 
 ## 03/10/2025
 - In order to win, you have to keep winining.
+- I think it's not about fail, fail, win. Instead it's fail, small win, small win, big win.
