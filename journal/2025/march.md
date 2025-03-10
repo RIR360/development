@@ -50,3 +50,4 @@
 ## 03/10/2025
 - In order to win, you have to keep winining.
 - I think it's not about fail, fail, win. Instead it's fail, small win, small win, big win.
+- Set a time, divide the task, get the easiest goal to get going.
