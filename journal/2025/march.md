@@ -46,3 +46,6 @@
 - Need to automate more, but at this point, I need more advanced capabilities and use python.
 - Sacrificing is the only way to grow but when to really consume and enjoy?
 - Consume a little bit everyday or weekly, good content, good entertainment.
+
+## 03/10/2025
+- 
