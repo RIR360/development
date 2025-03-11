@@ -57,3 +57,4 @@
 - Be very careful about your health, extra careful.
 - Unless you have a passive income it's kinda not legal to get sick.
 - Everything gets stuck when you are not that productive.
+- Be careful about the health, take breaks, and jump back after any setback.
