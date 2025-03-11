@@ -52,3 +52,6 @@
 - I think it's not about fail, fail, win. Instead it's fail, small win, small win, big win.
 - Set a time, divide the task, get the easiest goal to get going.
 - Burnout, it's mostly in your mind then physical. You just need to **WIN**.
+
+## 03/11/2025
+- 
