@@ -55,3 +55,4 @@
 
 ## 03/11/2025
 - Be very careful about your health, extra careful.
+- Unless you have a passive income it's kinda not legal to get sick.
