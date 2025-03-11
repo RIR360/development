@@ -54,4 +54,4 @@
 - Burnout, it's mostly in your mind then physical. You just need to **WIN**.
 
 ## 03/11/2025
-- 
+- Be very careful about your health, extra careful.
