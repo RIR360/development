@@ -63,3 +63,4 @@
 - Always think it's not that hard it seems before you start.
 - Don't lose hope, and try for one last time.
 - XGB or Xtreme Gradient Boosting is a good model for classification.
+- AI models and agents are the future so you better learn it.
