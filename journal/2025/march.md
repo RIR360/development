@@ -61,3 +61,4 @@
 
 ## 03/12/2025
 - Always think it's not that hard it seems before you start.
+- Don't lose hope, and try for one last time.
