@@ -60,4 +60,4 @@
 - Be careful about the health, take breaks, and jump back after any setback.
 
 ## 03/12/2025
-- 
+- Always think it's not that hard it seems before you start.
