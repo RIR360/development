@@ -64,3 +64,6 @@
 - Don't lose hope, and try for one last time.
 - XGB or Xtreme Gradient Boosting is a good model for classification.
 - AI models and agents are the future so you better learn it.
+
+## 03/13/2025
+- 
