@@ -69,3 +69,4 @@
 - Setbacks comes when a big big task burden you. Don't lose hope right away.
 - Instead brainstorm to find an alternative way of tackling the problem.
 - If you don't improve your systems day by day, you'll lose interest.
+- Always keep improving your systems, make it fast enough that it can't be any more faster.
