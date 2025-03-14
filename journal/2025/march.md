@@ -74,3 +74,4 @@
 ## 03/14/2025
 - Sleep is really important but it's so hard to have good sleep for devs.
 - **XGBoost** is really an amazing classification model for work.
+- XG Boost uses gradient descent to predict porbability from a lot of decision trees.
