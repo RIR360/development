@@ -72,4 +72,4 @@
 - Always keep improving your systems, make it fast enough that it can't be any more faster.
 
 ## 03/14/2025
-- 
+- Sleep is really important but it's so hard to have good sleep for devs.
