@@ -73,3 +73,4 @@
 
 ## 03/14/2025
 - Sleep is really important but it's so hard to have good sleep for devs.
+- **XGBoost** is really an amazing classification model for work.
