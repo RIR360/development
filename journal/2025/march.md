@@ -78,3 +78,4 @@
 - XG Boost gives you more than 80% accuracy if you provide enough data (~1M)
 
 ## 03/15/2025
+- Just like your phone, you also require re-charging, Don't forget that.
