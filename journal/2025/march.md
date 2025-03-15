@@ -79,3 +79,4 @@
 
 ## 03/15/2025
 - Just like your phone, you also require re-charging, Don't forget that.
+- Working so fast and quick (which is a MUST) will drain you up so take break.
