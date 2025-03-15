@@ -76,3 +76,5 @@
 - **XGBoost** is really an amazing classification model for work.
 - XG Boost uses gradient descent to predict porbability from a lot of decision trees.
 - XG Boost gives you more than 80% accuracy if you provide enough data (~1M)
+
+## 03/15/2025
