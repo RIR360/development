@@ -82,3 +82,6 @@
 - Working so fast and quick (which is a MUST) will drain you up so take break.
 - Another tip about creativity would be, just look at it, look at the details of it, you'll find a way to improve.
 - Always keep learning and keep pushing toward the goals.
+
+## 03/16/2025
+- 
