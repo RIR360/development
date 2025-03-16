@@ -84,4 +84,4 @@
 - Always keep learning and keep pushing toward the goals.
 
 ## 03/16/2025
-- 
+- Presentation is the most important thing. A lot of people can't do it properly.
