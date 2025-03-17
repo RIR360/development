@@ -89,3 +89,4 @@
 ## 03/17/2025
 - Be a man, if you need to then consume good inspiring contents.
 - Your brain is a muscle, so train it otherwise it'll lose it's spped.
+- For some long break, you need a good quality of sleep nothing so fancy.
