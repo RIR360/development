@@ -87,4 +87,4 @@
 - Presentation is the most important thing. A lot of people can't do it properly.
 
 ## 03/17/2025
-- 
+- Be a man, if you need to then consume good inspiring contents.
