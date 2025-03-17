@@ -85,3 +85,6 @@
 
 ## 03/16/2025
 - Presentation is the most important thing. A lot of people can't do it properly.
+
+## 03/17/2025
+- 
