@@ -94,3 +94,4 @@
 ## 03/18/2025
 - You'll be tested, you'll be tested by unique difficulties as you grow.
 - Make sure you have something, something to hang on when difficulties come.
+- Just ignore the things you can't control even it's the harsh reality for you.
