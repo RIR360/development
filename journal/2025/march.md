@@ -93,3 +93,4 @@
 
 ## 03/18/2025
 - You'll be tested, you'll be tested by unique difficulties as you grow.
+- Make sure you have something, something to hang on when difficulties come.
