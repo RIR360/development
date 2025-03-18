@@ -92,4 +92,4 @@
 - For some long break, you need a good quality of sleep nothing so fancy.
 
 ## 03/18/2025
-- 
+- You'll be tested, you'll be tested by unique difficulties as you grow.
