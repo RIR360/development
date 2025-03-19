@@ -97,4 +97,4 @@
 - Just ignore the things you can't control even it's the harsh reality for you.
 
 ## 03/19/2025
-- 
+- Don't underestimate the power of sleep, sleep less but at the effective time.
