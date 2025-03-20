@@ -102,4 +102,5 @@
 - BTW, **Grok** (AI Chatbot) is really cool, it talks so casually and feels natural.
 
 ## 03/20/2025
-- Changed sleep cycle is the key of a brigther life, better life.
+- Changed sleep cycle is the key of a brighter life, better life.
+- Successful people know the tricks that most of us don't know.
