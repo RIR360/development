@@ -110,3 +110,4 @@
 ## 03/21/2025
 - Reflection is really helpful, we're so busy with stuffs that we don't get time to think. 
 - Setting aside some time for reflection and open thinking is life changing.
+- If you don't know what to think and how to reflect then follow three steps:
