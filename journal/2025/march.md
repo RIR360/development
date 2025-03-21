@@ -108,4 +108,4 @@
 - You generate ideas when you think in a silence, not by doing daily tasks.
 
 ## 03/21/2025
-- 
+- Reflection is really helpful, we're so busy with stuffs that we don't get time to think. 
