@@ -113,3 +113,4 @@
 - If you don't know what to think and how to reflect then follow three steps:
   - Think about the past learnings.
   - Think what condition are you now.
+  - Plan what can be improved in the future
