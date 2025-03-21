@@ -106,3 +106,6 @@
 - Successful people know the tricks that most of us don't know.
 - Give yourself some silent time, some calm time to think and reflect.
 - You generate ideas when you think in a silence, not by doing daily tasks.
+
+## 03/21/2025
+- 
