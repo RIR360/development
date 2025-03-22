@@ -118,3 +118,4 @@
 
 ## 02/22/2025
 - Sometimes your body collapses if enough sleep was not found.
+- If you run a system for some time, the system will run by itself. (Habits)
