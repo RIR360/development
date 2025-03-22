@@ -117,4 +117,4 @@
 - Main goal of this practice to take better deicions for the future.
 
 ## 02/22/2025
-- 
+- Sometimes your body collapses if enough sleep was not found.
