@@ -115,3 +115,6 @@
   - Think what condition are you now.
   - Plan what can be improved in the future.
 - Main goal of this practice to take better deicions for the future.
+
+## 02/22/2025
+- 
