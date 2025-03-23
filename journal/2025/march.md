@@ -124,3 +124,4 @@
 ## 02/23/2025
 - AI and Automation is just the most important thing right now.
 - Everything is going easier and time is becoming more scarce.
+- You have to prioritize the tasks that moves the needle. That has the most benefits to you.
