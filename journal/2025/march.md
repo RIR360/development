@@ -126,3 +126,6 @@
 - Everything is going easier and time is becoming more scarce.
 - You have to prioritize the tasks that moves the needle. That has the most benefits to you.
 - Follow the 20/80 rule, do 20% of the tasks that brings 80% outcome.
+
+## 02/24/2025
+- 
