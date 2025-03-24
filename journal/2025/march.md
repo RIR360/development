@@ -128,4 +128,4 @@
 - Follow the 20/80 rule, do 20% of the tasks that brings 80% outcome.
 
 ## 02/24/2025
-- 
+- Plan strategically before you do a single change, it can cost you time. 
