@@ -128,4 +128,5 @@
 - Follow the 20/80 rule, do 20% of the tasks that brings 80% outcome.
 
 ## 02/24/2025
-- Plan strategically before you do a single change, it can cost you time. 
+- Plan strategically before you do a single change, it can cost you time.
+- At first you have to make yourself do the tasks, then you have to pick what's the best tasks.
