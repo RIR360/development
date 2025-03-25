@@ -133,4 +133,4 @@
 - You'll less time as you grow, you make the good decision while choosing what to do.
 
 ## 02/25/2025
-- 
+- Something is only productive if it's add values to your greater cause.
