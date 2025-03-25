@@ -136,3 +136,4 @@
 - Something is only productive if it's add values to your purpose and goals.
 - Don't take too much on the plate, choose wisely.
 - You have to choose the activites you do as a human and do them as a robot (without overthinking).
+- Entertainment is necessary but make sure to consume the good ones. Short videos are not good.
