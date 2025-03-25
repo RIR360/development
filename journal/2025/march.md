@@ -131,3 +131,6 @@
 - Plan strategically before you do a single change, it can cost you time.
 - At first you have to make yourself do the tasks, then you have to pick what's the best of them.
 - You'll less time as you grow, you make the good decision while choosing what to do.
+
+## 02/25/2025
+- 
