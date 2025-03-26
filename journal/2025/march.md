@@ -140,3 +140,4 @@
 
 ## 02/26/2025
 - To grow a garden nicely you can't force the plants to grow, you remove the things that stops them to grow.
+- So it's not about plants, it's about our lives and distractions we have. 
