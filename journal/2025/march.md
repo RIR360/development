@@ -139,4 +139,4 @@
 - Entertainment is necessary but make sure to consume the good ones. Short videos are not good.
 
 ## 02/26/2025
-- 
+- To grow a garden nicely you can't force the plants to grow, you remove the things that stops them to grow.
