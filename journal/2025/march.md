@@ -144,4 +144,4 @@
 - Be specific what tech stack you need to learn and master, avoid the distractions. 
 
 ## 02/27/2025
-- 
+- Drifting through the daily life struggles is easier but pushing bounderies is not.
