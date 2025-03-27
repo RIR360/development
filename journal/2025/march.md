@@ -147,3 +147,4 @@
 - Drifting through the daily life struggles is easier but pushing bounderies is not.
 - No matter what you must take control of your wills, otherwise it controls you.
 - Brain do knows that you must work to succeed but it'll tell you to skip the work as well.
+- Dealing with the procrastination is a significant thing to deal with.
