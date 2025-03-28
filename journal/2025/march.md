@@ -152,3 +152,4 @@
 ## 03/28/2025
 - The power of affirmation is huge, trust me!
 - You'll just instantly feel better if you keep saying good about you.
+- The problem is it's not good all the time, but still you have to do it.
