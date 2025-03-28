@@ -2,7 +2,7 @@
 - The Comfortzone caught me off guard. I prayed and proceed to stick with my routine.
 - Each of your daily habit counts trust me, don't miss them.
 
-## 03/02/2025
+## 03/03/2025
 - Try to stay aware of your actions. Sometimes it's hard but It'll save you from bad decisions.
 - Month of Ramadan 25 started, everything becoming calmer and calmer.
 - Time bounded working is a gem if you can use it properly.
@@ -116,35 +116,38 @@
   - Plan what can be improved in the future.
 - Main goal of this practice to take better deicions for the future.
 
-## 02/22/2025
+## 03/22/2025
 - Sometimes your body collapses if enough sleep was not found.
 - If you run a system for some time, the system will run by itself. (Habits)
 - When the setback comes, your habits and routine save you from falling.
 
-## 02/23/2025
+## 03/23/2025
 - AI and Automation is just the most important thing right now.
 - Everything is going easier and time is becoming more scarce.
 - You have to prioritize the tasks that moves the needle. That has the most benefits to you.
 - Follow the 20/80 rule, do 20% of the tasks that brings 80% outcome.
 
-## 02/24/2025
+## 03/24/2025
 - Plan strategically before you do a single change, it can cost you time.
 - At first you have to make yourself do the tasks, then you have to pick what's the best of them.
 - You'll less time as you grow, you make the good decision while choosing what to do.
 
-## 02/25/2025
+## 03/25/2025
 - Something is only productive if it's add values to your purpose and goals.
 - Don't take too much on the plate, choose wisely.
 - You have to choose the activites you do as a human and do them as a robot (without overthinking).
 - Entertainment is necessary but make sure to consume the good ones. Short videos are not good.
 
-## 02/26/2025
+## 03/26/2025
 - To grow a garden nicely you can't force the plants to grow, you remove the things that stops them to grow.
 - So it's not about plants, it's about our lives and distractions we have.
 - Be specific what tech stack you need to learn and master, avoid the distractions. 
 
-## 02/27/2025
+## 03/27/2025
 - Drifting through the daily life struggles is easier but pushing bounderies is not.
 - No matter what you must take control of your wills, otherwise it controls you.
 - Brain do knows that you must work to succeed but it'll tell you to skip the work as well.
 - Dealing with the procrastination is a significant thing to deal with.
+
+## 03/28/2025
+- 
