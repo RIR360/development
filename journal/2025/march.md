@@ -159,3 +159,4 @@
 - Affirmation works like a magic, it's a power that human eye can't see!
 - We should not think about the past no doubt, but we may need to think about future.
 - Thinking about the future is risky, you tend to fall in a loop hole!
+- Just remember a quick hack, you don't have to worry you have to plan with hope.
