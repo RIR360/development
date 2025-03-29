@@ -156,3 +156,4 @@
 - Even if things are going out of hand, atlest say **"I'm making progress..."** and pamper yourself.
 
 ## 03/29/2025
+- Affirmation works like a magic, it's a power that human eye can't see!
