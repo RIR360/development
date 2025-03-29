@@ -157,3 +157,4 @@
 
 ## 03/29/2025
 - Affirmation works like a magic, it's a power that human eye can't see!
+- We should not think about the past no doubt, but we may need to think about future.
