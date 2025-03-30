@@ -163,3 +163,4 @@
 
 ## 03/30/2025
 - The feeling after seeing the growth in long term is just amazing.
+- Delayed gratifications are 100x better but often don't realize.
