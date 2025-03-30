@@ -165,3 +165,4 @@
 - The feeling after seeing the growth in long term is just amazing.
 - Delayed gratifications are 100x better but often don't realize.
 - We just have to stay in the moderation and keep it natural.
+- AI automation is rocking everyone is running towards it.
