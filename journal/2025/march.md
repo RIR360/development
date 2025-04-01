@@ -172,4 +172,4 @@
 - Taking a day off is okay, but don't get invested too much on consuming.
 
 ## 04/01/2025
-- 
+- You may have shaped your habits so well but still you can fall in the trap.
