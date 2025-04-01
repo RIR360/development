@@ -170,3 +170,6 @@
 
 ## 03/31/2025
 - Taking a day off is okay, but don't get invested too much on consuming.
+
+## 04/01/2025
+- 
