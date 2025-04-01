@@ -169,3 +169,4 @@
 - Perfmon & Resmon are underrated life-savar hidden on windows.
 
 ## 03/31/2025
+- Taking a day off is okay, but don't get invested too much on consuming.
