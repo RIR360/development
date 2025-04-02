@@ -177,3 +177,4 @@
 
 ## 04/02/2025
 - The skill of getting back to the track after a break is notable.
+- The more longer the break is the more chance of falling behind.
