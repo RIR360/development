@@ -179,4 +179,4 @@
 - The skill of getting back to the track after a break is notable.
 - The more longer the break is the more chance of falling behind.
 - Take everything in account and find a optimal solution. No AI gonna do it for you.
-- Start from scratch build your foundation, make it stronger than ever.
+- Always try to make your foundational concept of technology strong.
