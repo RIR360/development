@@ -174,3 +174,6 @@
 ## 04/01/2025
 - You may have shaped your habits so well but still you can fall in the trap.
 - The trap of dopamine! It's critical so don't get over confident.
+
+## 04/02/2025
+- 
