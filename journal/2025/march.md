@@ -176,4 +176,4 @@
 - The trap of dopamine! It's critical so don't get over confident.
 
 ## 04/02/2025
-- 
+- The skill of getting back to the track after a break is notable.
