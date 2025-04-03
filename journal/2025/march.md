@@ -180,3 +180,6 @@
 - The more longer the break is the more chance of falling behind.
 - Take everything in account and find a optimal solution. No AI gonna do it for you.
 - Always try to make your foundational concept of technology strong.
+
+## 04/03/2025
+- 
