@@ -182,4 +182,4 @@
 - Always try to make your foundational concept of technology strong.
 
 ## 04/03/2025
-- 
+- Affirmation talk should be repeated every moment to keep you boosted.
