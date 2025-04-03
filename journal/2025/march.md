@@ -184,3 +184,4 @@
 ## 04/03/2025
 - Affirmation talk should be repeated every moment to keep you boosted.
 - It'll work like a magic everytime you repeat.
+- Affirmation is easy! Just say positive things to yourself.
