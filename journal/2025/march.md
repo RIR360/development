@@ -193,4 +193,4 @@
 - Don't fall too much, it's okay to make first or second mistakes.
 
 ## 04/06/2025
-- 
+- The joy of coming back to the track is amazing but it costs some willpower.
