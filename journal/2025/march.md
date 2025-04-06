@@ -191,3 +191,6 @@
 
 ## 04/05/2025
 - Don't fall too much, it's okay to make first or second mistakes.
+
+## 04/06/2025
+- 
