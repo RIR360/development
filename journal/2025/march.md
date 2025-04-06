@@ -187,4 +187,7 @@
 - Affirmation is easy! Just say positive things to yourself.
 
 ## 04/04/2025
-- 
+- Your seriousness will fade someday, you must watch out.
+
+## 04/05/2025
+- Don't fall too much, it's okay to make first or second mistakes.
