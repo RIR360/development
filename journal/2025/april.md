@@ -25,3 +25,4 @@
 ## 04/07/2025
 - Prepare for the best practice, no matter where you are.
 - Even if your company doesn't follow the rules, but you should know them.
+- We're human, we fall, but we can create a system that persist through.
