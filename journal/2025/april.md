@@ -23,4 +23,4 @@
 - The joy of coming back to the track is amazing but it costs some willpower.
 
 ## 04/07/2025
-- 
+- Prepare for the best practice, no matter where you are.
