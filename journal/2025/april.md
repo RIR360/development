@@ -30,3 +30,4 @@
 ## 04/08/2025
 - Don't jump to another system easily, hold your system and improve it.
 - I recently used v0 AI to automate my UI but it made mistakes that cost me more time and energy.
+- But when I use it for some of the components that feels hard to make, it really saves time.
