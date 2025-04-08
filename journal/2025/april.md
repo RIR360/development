@@ -28,4 +28,4 @@
 - We're human, we fall, but we can create a system that persist through.
 
 ## 04/08/2025
-- 
+- Don't jump to another system easily, hold your system and improve it.
