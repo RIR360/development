@@ -34,4 +34,4 @@
 - If you don't find the perfect system don't move to it. Improve your system of doing it.
 
 ## 04/09/2025
-- 
+- I made an tool that cost me more time than manual task.
