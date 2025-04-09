@@ -32,3 +32,6 @@
 - I recently used v0 AI to automate my UI but it made mistakes that cost me more time and energy.
 - But when I use it for some of the components that feels hard to make, it really saves time.
 - If you don't find the perfect system don't move to it. Improve your system of doing it.
+
+## 04/09/2025
+- 
