@@ -40,4 +40,4 @@
 - Always find a usecase of the tool you're making, you must keep using it.
 
 ## 04/10/2026
-- 
+- System is the king, keep improving it everyday.
