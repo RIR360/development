@@ -38,3 +38,6 @@
 - It's a case where the tool is not at it's maturity point.
 - A self made tool must reach a maturity point immediately otherwise it'll be abandoned.
 - Always find a usecase of the tool you're making, you must keep using it.
+
+## 04/10/2026
+- 
