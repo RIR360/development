@@ -42,3 +42,6 @@
 ## 04/10/2026
 - System is the king, keep improving it everyday.
 - Be extremely strategic where you spend time on.
+
+## 04/11/2026
+- 
