@@ -44,4 +44,4 @@
 - Be extremely strategic where you spend time on.
 
 ## 04/11/2026
-- 
+- The art of not giving up hope is important, it'll take you places.
