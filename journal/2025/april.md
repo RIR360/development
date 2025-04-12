@@ -50,3 +50,4 @@
 ## 04/12/2025
 - Re-inventing the wheel is a costly mistake you can make often you're not aware.
 - I spent hours working on a infinite slider that was openly available online.
+- Another mistake could be not predicting the solve-ability.
