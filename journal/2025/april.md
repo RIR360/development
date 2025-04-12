@@ -51,3 +51,4 @@
 - Re-inventing the wheel is a costly mistake you can make often you're not aware.
 - I spent hours working on a infinite slider that was openly available online.
 - Another mistake could be not predicting the solve-ability.
+- You must predict if the problem is solve-able within the given time, it's a deadly mistake if you can't.
