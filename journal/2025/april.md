@@ -46,3 +46,6 @@
 ## 04/11/2026
 - The art of not giving up hope is important, it'll take you places.
 - The small breaks you take in between work saves you from burnout.
+
+## 04/12/2025
+- 
