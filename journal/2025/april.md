@@ -48,4 +48,4 @@
 - The small breaks you take in between work saves you from burnout.
 
 ## 04/12/2025
-- 
+- Re-inventing the wheel is a costly mistake you can make often you're not aware.
