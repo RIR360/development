@@ -57,3 +57,4 @@
 - Affirmations are the power that keeps you moving when you feel stuck.
 - Variations are important for humans, you need to do various things.
 - When you keep doing one thing then you risk of getting burnout, you must do something else in between.
+- Cycling through the tasks are great way to overcome any burnout or frustration.
