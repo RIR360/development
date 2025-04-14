@@ -63,3 +63,4 @@
 - When you stop thinking, you'll start losing.
 - It's good that you found an idea, but you must think other ways around and keep improving it.
 - Check all the posibilities of your idea and estimate as far as you can.
+- Not taking action is bad, but taking action on wrong plan is one level higher "bad".
