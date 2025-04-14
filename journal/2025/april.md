@@ -60,4 +60,4 @@
 - Cycling through the tasks are great way to overcome any burnout or frustration.
 
 ## 04/14/2025
-- 
+- When you stop thinking, you'll start losing.
