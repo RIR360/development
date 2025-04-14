@@ -61,3 +61,4 @@
 
 ## 04/14/2025
 - When you stop thinking, you'll start losing.
+- It's good that you found an idea, but you must think other ways around and keep improving it.
