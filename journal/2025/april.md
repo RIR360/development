@@ -68,3 +68,4 @@
 
 ## 04/15/2025
 - Not giving up sometimes feels like a chore but it pays off a lot.
+- Finding a unique name online is extremetly tough nowadays. It's like every name is taken.
