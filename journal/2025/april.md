@@ -65,3 +65,6 @@
 - Check all the posibilities of your idea and estimate as far as you can.
 - Not taking action is bad, but taking action on wrong plan is one level higher "bad".
 - My recent automation tool didn't worth the time, but it can be useful. Thus I lost some valuable time.
+
+## 04/15/2025
+- 
