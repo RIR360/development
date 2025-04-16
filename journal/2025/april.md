@@ -74,3 +74,4 @@
 
 ## 04/16/2025
 - You have to keep saving time minute by minute, even learning a shortcut helps.
+- Learn to use higher DPI movement with mouse it'll require you less physical movement.
