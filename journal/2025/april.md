@@ -71,3 +71,6 @@
 - Finding a unique name online is extremetly tough nowadays. It's like every name is taken.
 - Before you start thinking it feels to hard, but trust me you jsut need to enter the thinking zone.
 - When you're in the zone, the possibilities are beyond the sky.
+
+## 04/16/2025
+- 
