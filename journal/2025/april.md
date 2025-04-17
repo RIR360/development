@@ -81,3 +81,4 @@
 ## 04/17/2025
 - Time tracking is the most helpful thing in my daily habits.
 - It cuts the tension of over-grinding and under-working.
+- At first I thought it's a time waste itself but eventually it cured my depression.
