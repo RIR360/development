@@ -77,3 +77,6 @@
 - Learn to use higher DPI movement with mouse it'll require you less physical movement.
 - Be so greedy about time saving, not a single moment should waste.
 - Make your work environment easy by remembering frequent stuff.
+
+## 04/17/2025
+- 
