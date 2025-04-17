@@ -82,3 +82,4 @@
 - Time tracking is the most helpful thing in my daily habits.
 - It cuts the tension of over-grinding and under-working.
 - At first I thought it's a time waste itself but eventually it cured my depression.
+- **Tip**: Keep multiple dedicated timers for work because some of them need to be paused sometimes.
