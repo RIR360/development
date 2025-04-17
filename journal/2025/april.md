@@ -80,3 +80,4 @@
 
 ## 04/17/2025
 - Time tracking is the most helpful thing in my daily habits.
+- It cuts the tension of over-grinding and under-working.
