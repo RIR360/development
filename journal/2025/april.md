@@ -88,3 +88,4 @@
 - Don't solve the wrong problem!
 - Run your ideas into some test to find if it's worth it or not.
 - Any wrong idea will solve a problem but that's not what you need exactly.
+- Focus on work that matter not just "Feels productive".
