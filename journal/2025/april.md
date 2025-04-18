@@ -86,3 +86,4 @@
 
 ## 04/18/2025
 - Don't solve the wrong problem!
+- Run your ideas into some test to find it's worth it.
