@@ -86,4 +86,5 @@
 
 ## 04/18/2025
 - Don't solve the wrong problem!
-- Run your ideas into some test to find it's worth it.
+- Run your ideas into some test to find if it's worth it or not.
+- Any wrong idea will solve a problem but that's not what you need exactly.
