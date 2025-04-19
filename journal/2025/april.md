@@ -92,3 +92,4 @@
 
 ## 04/19/2025
 - When you're going to solve a problem, solve the easiest part first.
+- Solving in a way that the minimum visual production happen is crucial.
