@@ -89,3 +89,6 @@
 - Run your ideas into some test to find if it's worth it or not.
 - Any wrong idea will solve a problem but that's not what you need exactly.
 - Focus on work that matter not just "Feels productive".
+
+## 04/19/2025
+- When you're going to solve a problem, solve the easiest part first.
