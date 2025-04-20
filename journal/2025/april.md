@@ -98,3 +98,4 @@
 
 ## 04/20/2025
 - Don't force things, instead keep doing your part.
+- Things will be easier if you do it with proper plan.
