@@ -95,3 +95,6 @@
 - Solving in a way that the minimum visual production happen is crucial.
 - Solve a problem with multiple revisions not in one go.
 - Before making an automation tool, you must check if it's far better then the manual approach.
+
+## 04/20/2025
+- 
