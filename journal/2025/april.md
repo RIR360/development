@@ -97,4 +97,4 @@
 - Before making an automation tool, you must check if it's far better then the manual approach.
 
 ## 04/20/2025
-- 
+- Don't force things, instead keep doing your part.
