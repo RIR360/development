@@ -101,3 +101,6 @@
 - Things will be easier if you do it with proper plan.
 - Things will be a disaster if it's not planned properly.
 - Starting with the minimum visual product is life saving.
+
+## 04/21/2025
+- 
