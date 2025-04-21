@@ -104,3 +104,4 @@
 
 ## 04/21/2025
 - Be careful about your system, find better systems continuously. 
+- Your work environemnt is not perfect, there's still ways to improve.
