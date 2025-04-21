@@ -105,3 +105,4 @@
 ## 04/21/2025
 - Be careful about your system, find better systems continuously. 
 - Your work environemnt is not perfect, there's still ways to improve.
+- Just make sure nothing distracts you from your goal, that's almost enough.
