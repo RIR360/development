@@ -103,4 +103,4 @@
 - Starting with the minimum visual product is life saving.
 
 ## 04/21/2025
-- 
+- Be careful about your system, find better systems continuously. 
