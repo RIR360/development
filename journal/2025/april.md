@@ -109,4 +109,4 @@
 - Resources are something that will make you better than others. Gather them.
 
 ## 04/22/2025
-- 
+- Your routine and habits eventually becomes part of you.
