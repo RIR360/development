@@ -110,3 +110,4 @@
 
 ## 04/22/2025
 - Your routine and habits eventually becomes part of you.
+- At that point, you fall to void when you don't do them as usual.
