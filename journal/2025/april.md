@@ -107,3 +107,6 @@
 - Your work environemnt is not perfect, there's still ways to improve.
 - Just make sure nothing distracts you from your goal, that's almost enough.
 - Resources are something that will make you better than others. Gather them.
+
+## 04/22/2025
+- 
