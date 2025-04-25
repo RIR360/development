@@ -113,3 +113,6 @@
 - At that point, you fall to void when you don't do them as usual.
 - If you feel bad and depressed, it's most likely habits are missing.
 - Not contributing to all the areas of your goals will drain you.
+
+## 04/23/2025
+- Thinking about wether you can do it or not sometimes brings anxiety.
