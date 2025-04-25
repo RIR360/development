@@ -123,3 +123,4 @@
 ## 04/25/2025
 - Just be a problem solver, be a fighter, things will be in handy.
 - Everything you consume should be best for you even the movies you choose to watch.
+- Good point, watching movies is way better then watching reels online.
