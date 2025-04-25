@@ -116,3 +116,6 @@
 
 ## 04/23/2025
 - Thinking about wether you can do it or not sometimes brings anxiety.
+
+## 04/24/2025
+- Being aware about the outcome is important but don't let it make you nervous.
