@@ -121,4 +121,4 @@
 - Being aware about the complexity is important but don't let it make you nervous.
 
 ## 04/25/2025
-- 
+- Just be a problem solver, be a fighter, things will be in handy.
