@@ -6,3 +6,4 @@
 
 ## 5/2/2025
 - Start small and keep going, and start without thinking.
+- Make another habit to going back to your routine.
