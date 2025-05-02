@@ -5,4 +5,4 @@
 - To make the transition easier, train your mind.
 
 ## 5/2/2025
-- 
+- Start small and keep going, and start without thinking.
