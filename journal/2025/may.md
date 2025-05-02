@@ -3,3 +3,6 @@
 - You're body will hate it, you're mind will as well.
 - But you'll surely regret if you can't transition.
 - To make the transition easier, train your mind.
+
+## 5/2/2025
+- 
