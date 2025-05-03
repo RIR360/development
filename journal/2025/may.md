@@ -8,3 +8,6 @@
 - Start small and keep going, and start without thinking.
 - Make another habit to going back to your routine.
 - Whenever you got time just go back to your routine, nothing else.
+
+## 5/3/2025
+- 
