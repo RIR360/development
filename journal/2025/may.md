@@ -11,3 +11,4 @@
 
 ## 5/3/2025
 - A small mistake can take away hours from your life.
+- Sometimes you have loosen something up when things are not working.
