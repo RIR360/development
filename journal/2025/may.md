@@ -10,4 +10,4 @@
 - Whenever you got time just go back to your routine, nothing else.
 
 ## 5/3/2025
-- 
+- A small mistake can take away hours from your life.
