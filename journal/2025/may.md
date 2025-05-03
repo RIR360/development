@@ -14,3 +14,4 @@
 - Sometimes you have to loosen things up when things are not working.
 - Don't hold onto something that's not going anywhere.
 - Don't fear to start and never fear to try new possibilities.
+- You just need to know when to stop and rollback as soon as possible.
