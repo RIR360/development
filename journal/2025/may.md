@@ -23,4 +23,4 @@
 - 
 
 ## 5/6/2025
-- 
+- No matter how big the task is, look at the smallest part first.
