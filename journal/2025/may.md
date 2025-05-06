@@ -15,3 +15,12 @@
 - Don't hold onto something that's not going anywhere.
 - Don't fear to start and never fear to try new possibilities.
 - You just need to know when to stop and rollback as soon as possible.
+
+## 5/4/2025
+- 
+
+## 5/5/2025
+- 
+
+## 5/6/2025
+- 
