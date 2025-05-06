@@ -25,3 +25,4 @@
 ## 5/6/2025
 - No matter how big the task is, look at the smallest part first.
 - The first win among all is to stop fearing how big is the task.
+- Properly distribute the time and work for the MVP.
