@@ -35,4 +35,4 @@
 - 
 
 ## 5/9/2025
-- 
+- Losing is too easy, and it is so quick to fall.
