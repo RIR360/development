@@ -27,3 +27,12 @@
 - The first win among all is to stop fearing how big is the task.
 - Properly distribute the time and work for the MVP.
 - You need to go with all the things that builds you.
+
+## 5/7/2025
+-
+
+## 5/8/2025
+- 
+
+## 5/9/2025
+- 
