@@ -38,3 +38,4 @@
 - Losing is too easy, and it is so quick to fall.
 - You must control your urge and be moderate.
 - You can't suceed without keeping things in the balance.
+- And you must have rules as well, no distractions while grinding.
