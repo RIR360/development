@@ -42,3 +42,6 @@
 
 ## 5/10/2025
 - Don't fear about the task, just believe you can do it.
+
+## 5/11/2025
+- A good strategy is to not thinking about the whole project after the planning.
