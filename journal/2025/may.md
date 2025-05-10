@@ -41,4 +41,4 @@
 - And you must have rules as well, no distractions while grinding.
 
 ## 5/10/2025
-- 
+- Don't fear about the task, just believe you can do it.
