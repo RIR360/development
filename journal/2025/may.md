@@ -39,3 +39,6 @@
 - You must control your urge and be moderate.
 - You can't suceed without keeping things in the balance.
 - And you must have rules as well, no distractions while grinding.
+
+## 5/10/2025
+- 
