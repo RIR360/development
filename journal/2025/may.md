@@ -49,4 +49,4 @@
 - If you don't fear you won't postpone tasks so often. Just feel you're powerful then those.
 
 ## 5/12/2025
-- 
+- Never giving up is the key, proven every time.
