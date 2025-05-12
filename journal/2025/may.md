@@ -47,3 +47,6 @@
 - A good strategy is to not thinking about the whole project after the planning.
 - Fear holds you back and it's not about the fear of a monster, it can be the fear of a task.
 - If you don't fear you won't postpone tasks so often. Just feel you're powerful then those.
+
+## 5/12/2025
+- 
