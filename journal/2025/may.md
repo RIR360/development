@@ -53,3 +53,4 @@
 
 ## 5/13/2025
 - Believe in yourself, be ready for any issues, don't get distracted.
+- Always tell yourself that the only thing you need to do is improving self.
