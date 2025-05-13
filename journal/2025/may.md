@@ -54,4 +54,5 @@
 ## 5/13/2025
 - Believe in yourself, be ready for any issues, don't get distracted.
 - Always tell yourself that the only thing you need to do is improving self.
-- Tell yourself again and again, I'm built for something special. 
+- Tell yourself again and again, "I'm built for something special".
+- Keep telling yourself that, "I can't waste time like this".
