@@ -58,4 +58,4 @@
 - Keep telling yourself that, "I can't waste time like this".
 
 ## 5/14/2025
-- 
+- Break your comfortzone like a boos, don't overthink for a little.
