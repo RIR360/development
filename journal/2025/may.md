@@ -60,3 +60,4 @@
 ## 5/14/2025
 - Break your comfortzone like a boos, don't overthink for a little.
 - When things goes wrong just say it's not in my luck. It reduces the guilt.
+- When things are smooth, be grateful to your lord.
