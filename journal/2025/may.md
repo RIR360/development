@@ -64,3 +64,4 @@
 
 ## 5/15/2025
 - Keep fighting and fighting, you're stronger than you think.
+- Plan for the biggest tackle but think small part a time.
