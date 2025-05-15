@@ -65,3 +65,4 @@
 ## 5/15/2025
 - Keep fighting and fighting, you're stronger than you think.
 - Plan for the biggest tackle but think small part a time.
+- Don't even think the task is too big for me to do, instead think how to solve the first level.
