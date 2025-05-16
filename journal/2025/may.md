@@ -68,4 +68,4 @@
 - Don't even think the task is too big for me to do, instead think how to solve the first level.
 
 ## 5/16/2025
-- 
+- Be careful about your each and every actions.
