@@ -69,3 +69,4 @@
 
 ## 5/16/2025
 - Be careful about your each and every actions.
+- You have to pay for even a single wrong decision.
