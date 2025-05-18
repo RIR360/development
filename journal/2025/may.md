@@ -76,3 +76,4 @@
 
 ## 5/18/2025
 - You'll only change you when managed to convince your brain.
+- The Sub-concious brain is vulnerable, it's get manipulated.
