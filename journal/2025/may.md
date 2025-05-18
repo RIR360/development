@@ -70,3 +70,6 @@
 ## 5/16/2025
 - Be careful about your each and every actions.
 - You have to pay for even a single wrong decision.
+
+## 5/17/2025
+- Solve the problems one by one, maintain the hierarchy.
