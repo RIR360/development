@@ -73,3 +73,6 @@
 
 ## 5/17/2025
 - Solve the problems one by one, maintain the hierarchy.
+
+## 5/18/2025
+- You'll only change you when managed to convince your brain.
