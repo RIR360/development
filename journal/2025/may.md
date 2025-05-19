@@ -81,3 +81,4 @@
 
 ## 5/19/2025
 - Don't react too early, digest the anger first.
+- You get some things when you least expect it, and that's enjoyable.
