@@ -80,4 +80,4 @@
 - You can only change when you learned to manage your sub-concious brain.
 
 ## 5/19/2025
-- 
+- Don't react too early, digest the anger first.
