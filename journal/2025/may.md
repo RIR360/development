@@ -78,3 +78,6 @@
 - You'll only change you when managed to convince your brain.
 - The Sub-concious brain is vulnerable, it's get manipulated easily.
 - You can only change when you learned to manage your sub-concious brain.
+
+## 5/19/2025
+- 
