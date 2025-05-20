@@ -84,4 +84,4 @@
 - You get some things when you least expect it, and that's enjoyable.
 
 ## 5/20/2025
-- 
+- When you done solving your own problem, solve others that matters to you.
