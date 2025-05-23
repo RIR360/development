@@ -96,3 +96,4 @@
 ## 5/23/2025
 - Be quick at the day so that you got time for rest at the night.
 - Life is so dynamic, you must be capable to handling the spikes.
+- At some point, you just don't need to do things, you need to do them quick and efficiently.
