@@ -88,10 +88,10 @@
 - Sometimes you feel bad for no reason, decide to take some rest.
 
 ## 5/21/2025
--
+- 
 
 ## 5/22/2025
--
+- 
 
 ## 5/23/2025
--
+- Be quick at the day so that you got time for rest at the night.
