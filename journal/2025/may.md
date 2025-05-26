@@ -106,3 +106,4 @@
 
 ## 5/26/2025
 - You plan properly then you progress, it'll work anyway.
+- If you feel stuck, sit back plan the things you need to do.
