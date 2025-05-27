@@ -111,3 +111,4 @@
 
 ## 5/27/2025
 - When you're going through a pain, you're most vulnerable at that time.
+- Grond yourself when you're feeling bad, otherwise you'll end up distracting yourself.
