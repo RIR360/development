@@ -108,3 +108,6 @@
 - You plan properly then you progress, it'll work anyway.
 - If you feel stuck, sit back plan the things you need to do.
 - Another tip, when you feel bad stay away from devices so you don't fall in the trap.
+
+## 5/27/2025
+- 
