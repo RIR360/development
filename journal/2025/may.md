@@ -113,3 +113,4 @@
 - When you're going through a pain, you're most vulnerable at that time.
 - Grond yourself when you're feeling bad, otherwise you'll end up distracting yourself.
 - Stay away from devices whenever you're feeling down. **It's Important**
+- Get up and walk back and forth, it helps to find ideas and solutions.
