@@ -110,4 +110,4 @@
 - Another tip, when you feel bad stay away from devices so you don't fall in the trap.
 
 ## 5/27/2025
-- 
+- When you're going through a pain, you're most vulnerable at that time.
