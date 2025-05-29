@@ -119,4 +119,4 @@
 - 
 
 ## 5/29/2025
-- 
+- Forcing yourself into a time bound helps, it helps a lot.
