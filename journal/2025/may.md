@@ -121,3 +121,4 @@
 ## 5/29/2025
 - Forcing yourself into a time bound helps, it helps a lot.
 - We often don't see the benefits of the rules. Peace is being inside them not outside.
+- A time fixed but flexiable routine seems to be better relaxing and reduce stress.
