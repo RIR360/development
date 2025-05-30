@@ -126,4 +126,4 @@
 - Take responsbility, solve them, find the way around it.
 
 ## 5/30/2025
-- 
+- Don't fear and don't make your brain fear as well.
