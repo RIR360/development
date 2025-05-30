@@ -128,3 +128,4 @@
 ## 5/30/2025
 - Don't fear and don't make your brain fear as well.
 - You'll lose energy and focus if you worry about the next task.
+- The next big task is always scary but not the first step.
