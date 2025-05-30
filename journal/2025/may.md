@@ -124,3 +124,6 @@
 - A time fixed but flexible routine seems to be better relaxing and reduce stress.
 - If you just don't think about how bad things are effecting you it's not gone, it's still there.
 - Take responsbility, solve them, find the way around it.
+
+## 5/30/2025
+- 
