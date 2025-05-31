@@ -132,4 +132,5 @@
 - So just think about the first step so your brain won't hold you down.
 
 ## 5/31/2025
-- 
+- For a man, it's hard to take control of your actions when a girl is involed.
+- Don't react too early, take deep breath, think and take action.
