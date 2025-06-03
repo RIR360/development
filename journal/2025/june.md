@@ -7,4 +7,4 @@
 - 
 
 ## 06/03/2025
-- 
+- Baby step formula is potential, do everything in very small amount but consistently.
