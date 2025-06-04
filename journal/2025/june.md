@@ -11,3 +11,9 @@
 - Routine is the fallback, you feel bad? start doing the routine properly.
 - You'll not just feel motivated, it's what builds you from inside.
 - Follow routine now and feel less guilt later.
+
+## 06/03/2025
+- 
+
+## 06/04/2025
+- 
