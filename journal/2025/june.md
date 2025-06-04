@@ -19,3 +19,4 @@
 - We have to build ourself first, don't let anything drift you away.
 - If you have less friction, then you can go more smoothly.
 - Work fast, rest slow. This way you'll reduce the chance of wasting time.
+- You need break but not during the work, so be careful about that.
