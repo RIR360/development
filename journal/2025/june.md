@@ -16,4 +16,4 @@
 - 
 
 ## 06/04/2025
-- 
+- We have to build ourself first, don't let anything drift you away.
