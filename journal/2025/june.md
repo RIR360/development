@@ -22,4 +22,4 @@
 - You need break but not during the work, so be careful about that.
 
 ## 06/05/2025
-- 
+- You'll fall when you bring a change into your life.
