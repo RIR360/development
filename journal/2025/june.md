@@ -24,3 +24,4 @@
 ## 06/05/2025
 - You'll fall when you bring a change into your life.
 - But hold on, get ready to jump back onto it ASAP.
+- Don't worry, it'll get in handy after you master it.
