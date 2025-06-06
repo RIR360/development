@@ -27,4 +27,4 @@
 - Don't worry, it'll get in handy after you master it.
 
 ## 06/06/2025
-- 
+- Take days off but make sure your priorites are addressed.
