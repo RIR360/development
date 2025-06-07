@@ -31,4 +31,5 @@
 
 ## 06/07/2025
 - Don't forget to take rest but don't blame yourself.
-- Consume entertainment but don't find yourself lost.
+- Consume entertainment but don't find yourself lost in it.
+- Avoid short term entertainments like shorts, watch movies instead.
