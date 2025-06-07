@@ -30,4 +30,4 @@
 - Take days off but make sure your priorites are addressed.
 
 ## 06/07/2025
-- 
+- Don't forget to take rest but don't blame yourself.
