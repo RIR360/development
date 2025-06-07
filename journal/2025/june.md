@@ -31,3 +31,4 @@
 
 ## 06/07/2025
 - Don't forget to take rest but don't blame yourself.
+- Consume entertainment but don't find yourself lost.
