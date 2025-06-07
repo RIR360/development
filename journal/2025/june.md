@@ -28,3 +28,6 @@
 
 ## 06/06/2025
 - Take days off but make sure your priorites are addressed.
+
+## 06/07/2025
+- 
