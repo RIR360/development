@@ -37,3 +37,4 @@
 ## 06/08/2025
 - I repeat, don't miss your crucial tasks from the routine, even in weekend.
 - You may don't push yourself for the work, but you should still complete the basics.
+- Your routine, your tasks is what gives you something to do when your mind is distracted.
