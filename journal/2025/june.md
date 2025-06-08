@@ -35,4 +35,5 @@
 - Avoid short term entertainments like shorts, watch movies instead.
 
 ## 06/08/2025
-- I repeat, don't miss your crucial tasks from the routine, even in weekends.
+- I repeat, don't miss your crucial tasks from the routine, even in weekend.
+- You may don't push yourself for the work, but you should still complete the basics.
