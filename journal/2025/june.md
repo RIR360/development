@@ -35,4 +35,4 @@
 - Avoid short term entertainments like shorts, watch movies instead.
 
 ## 06/08/2025
-- 
+- I repeat, don't miss your crucial tasks from the routine, even in weekends.
