@@ -41,3 +41,4 @@
 
 ## 06/09/2025
 - Don't take everything on your head, everything's not your responsibility.
+- Dealing with a lot of things is to understand which to deal with now and which to avoid.
