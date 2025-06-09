@@ -40,4 +40,4 @@
 - Your routine, your tasks is what gives you something to do when your mind is distracted.
 
 ## 06/09/2025
-- 
+- Don't take everything on your head, everything's not your responsibility.
