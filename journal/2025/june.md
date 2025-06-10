@@ -46,4 +46,4 @@
 - You must live with hope and progress, your brain likes it.
 
 ## 06/10/2025
-- 
+- If you stick with your base routine then you won't be shaken.
