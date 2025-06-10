@@ -44,3 +44,6 @@
 - Dealing with a lot of things is to understand which to deal with now and which to postpone.
 - Take your care first before all, you'll stay good.
 - You must live with hope and progress, your brain likes it.
+
+## 06/10/2025
+- 
