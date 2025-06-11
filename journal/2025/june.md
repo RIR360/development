@@ -47,3 +47,6 @@
 
 ## 06/10/2025
 - If you stick with your base routine then you won't be shaken.
+
+## 06/11/2025
+- 
