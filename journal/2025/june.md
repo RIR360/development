@@ -49,4 +49,4 @@
 - If you stick with your base routine then you won't be shaken.
 
 ## 06/11/2025
-- 
+- You must have one purpose at the very top of the priority list.
