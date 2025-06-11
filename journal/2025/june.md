@@ -50,3 +50,4 @@
 
 ## 06/11/2025
 - You must have one purpose at the very top of the priority list.
+- You need to take it easy, and take others easy.
