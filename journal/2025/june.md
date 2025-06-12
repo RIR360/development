@@ -54,4 +54,4 @@
 - Don't react to others, don't blame and think how to influence them.
 
 ## 06/12/2025
-- 
+- The RPM method seems to powerful. I need to try it for some more time.
