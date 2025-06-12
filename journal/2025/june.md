@@ -52,3 +52,6 @@
 - You must have one purpose at the very top of the priority list.
 - You need to take it easy, and take others easy.
 - Don't react to others, don't blame and think how to influence them.
+
+## 06/12/2025
+- 
