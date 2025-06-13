@@ -59,4 +59,4 @@
 - By switching context (AKA work type) your brain finds a breathing space.
 
 ## 06/13/2025
-- 
+- Remember you have to maintain both life and work.
