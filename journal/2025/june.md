@@ -60,3 +60,4 @@
 
 ## 06/13/2025
 - Remember you have to maintain both life and work.
+- Be careful about the guilt, it can make you feel uncomfortable.
