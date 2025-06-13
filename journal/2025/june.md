@@ -57,3 +57,6 @@
 - The RPM method seems to powerful. I need to try it for some more time.
 - It's "Round Priority Method", it helps you stay out of the burnout.
 - By switching context (AKA work type) your brain finds a breathing space.
+
+## 06/13/2025
+- 
