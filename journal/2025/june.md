@@ -65,4 +65,4 @@
 - You can convince your mind by touching everything's on the table.
 
 ## 06/14/2025
-- 
+- Time boxing is another important thing to do when you're bombered with tasks.
