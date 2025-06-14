@@ -67,3 +67,4 @@
 ## 06/14/2025
 - Time boxing is another important thing to do when you're bombered with tasks.
 - You can work with the RPM (Round Priority Method) with timeboxed manner.
+- Timeboxing relaxes your mind by letting you know what you can do and what you can't.
