@@ -63,3 +63,6 @@
 - Be careful about the guilt, it can make you feel uncomfortable.
 - Even you done a lot but if your mind is not convinced you'll feel incomplete.
 - You can convince your mind by touching everything's on the table.
+
+## 06/14/2025
+- 
