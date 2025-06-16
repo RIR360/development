@@ -76,3 +76,4 @@
 - No matter what you can't lose your cool, you must keep forward.
 - You'll always be bombered with tasks, but deal with it carefully.
 - No matter what happens don't lose your cool, stay calm, everything will fall in place.
+- Thining too much is a disease, thinking optimal is the key.
