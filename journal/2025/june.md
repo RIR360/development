@@ -74,3 +74,4 @@
 
 ## 06/16/2025
 - No matter what you can't lose your cool, you must keep forward.
+- You'll always be bombered with tasks, but deal with it carefully.
