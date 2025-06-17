@@ -80,3 +80,4 @@
 
 ## 06/17/2025
 - Don't take too much negativity into you, train your brain to ignore it.
+- Always improve your life and work tools, you go with all of them.
