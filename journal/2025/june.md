@@ -79,4 +79,4 @@
 - Thining too much is a disease, thinking optimal is the key.
 
 ## 06/17/2025
-- 
+- Don't take too much negativity into you, train your brain to ignore it.
