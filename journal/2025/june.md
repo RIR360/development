@@ -88,4 +88,4 @@
 - 
 
 ## 06/19/2025
-- 
+- No mater what happended, how weak you are, don't break mentally.
