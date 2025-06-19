@@ -83,3 +83,9 @@
 - Always improve your life and work tools, you go with all of them.
 - Don't forget to go out, have fun and take rest (not by watching reels)
 - Life and work is two wheels of a bike you must have system to move both.
+
+## 06/18/2025
+- 
+
+## 06/19/2025
+- 
