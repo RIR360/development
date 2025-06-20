@@ -90,3 +90,6 @@
 ## 06/19/2025
 - No mater what happended, how weak you are, don't break mentally.
 - Sometimes weakness and sickness will catch you off-guard you have to stand your ground.
+
+## 06/20/2025
+- 
