@@ -106,3 +106,4 @@
 ## 06/24/2025
 - You must refocus, after delays and pressure moments.
 - You don't rest after work, you rest while work.
+- Work never ends, it comes endlessly and won't stop until you break down.
