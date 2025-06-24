@@ -99,3 +99,9 @@
 
 ## 06/22/2025
 - You must maintain the priority list, you must know what's the most important.
+
+## 06/23/2025
+- 
+
+## 06/24/2025
+- 
