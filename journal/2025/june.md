@@ -104,4 +104,4 @@
 - 
 
 ## 06/24/2025
-- 
+- You must refocus, after delays and pressure moments.
