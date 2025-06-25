@@ -112,3 +112,4 @@
 ## 06/25/2025
 - You have to constantly level up your environment.
 - Your system will be outdated so soon, make it ready for new challanges.
+- Without ugraded tools and system you can't stand your ground.
