@@ -110,4 +110,5 @@
 - And In order to not "break down" you keep enriching your living. 
 
 ## 06/25/2025
-- 
+- You have to constantly level up your environment.
+- Your system will be outdated so soon, make it ready for new challanges.
