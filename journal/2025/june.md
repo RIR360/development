@@ -108,3 +108,6 @@
 - You don't rest after work, you rest while work.
 - Work never ends, it comes endlessly and won't stop until you break down.
 - And In order to not "break down" you keep enriching your living. 
+
+## 06/25/2025
+- 
