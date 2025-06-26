@@ -114,3 +114,6 @@
 - Your system will be outdated so soon, make it ready for new challanges.
 - Without ugraded tools and system you can't stand your ground.
 - Find priority, focus on the small things, completed gradually.
+
+## 06/25/20025
+- Think big, but plan to solve the next immediate issue first.
