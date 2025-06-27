@@ -122,4 +122,5 @@
 - Self control, Anger control and a lot of others are required skills to progress.
 
 ## 06/26/2025
-- Make rules for yourself before others makes for you.
+- Make rules for yourself before others make for you.
+- Working fast and quick is important.
