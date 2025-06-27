@@ -115,8 +115,11 @@
 - Without ugraded tools and system you can't stand your ground.
 - Find priority, focus on the small things, completed gradually.
 
-## 06/25/20025
+## 06/25/2025
 - Think big, but plan to solve the next immediate issue first.
 - You can crack a big thing in life with a broken system.
 - Even having a good sleep cycle is a big deal in someone's life.
 - Self control, Anger control and a lot of others are required skills to progress.
+
+## 06/26/2025
+- 
