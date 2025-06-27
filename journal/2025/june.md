@@ -122,4 +122,4 @@
 - Self control, Anger control and a lot of others are required skills to progress.
 
 ## 06/26/2025
-- 
+- Make rules for yourself before others makes for you.
