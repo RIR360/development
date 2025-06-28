@@ -131,3 +131,4 @@
 
 ## 06/28/2025
 - Solve your problems one by one, you'll feel relief and your brain too.
+- You'll fail to take any decisions when there's too much options.
