@@ -125,3 +125,9 @@
 - Make rules for yourself before others make for you.
 - Working fast and quick is important.
 - Don't work shallow, work deep you may take rest later.
+
+## 06/27/2025
+-
+
+## 06/28/2025
+-
