@@ -127,7 +127,7 @@
 - Don't work shallow, work deep you may take rest later.
 
 ## 06/27/2025
--
+- 
 
 ## 06/28/2025
--
+- Solve your problems one by one, you'll feel relief and your brain too.
