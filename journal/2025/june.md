@@ -137,3 +137,4 @@
 ## 06/29/2025
 - Take care of your body equally, you'll fall behind if physically weak.
 - Solve problems one by one, and tackle post "win" moments.
+- You wind donw after a win, so you must handle that won't take you away from the track.
