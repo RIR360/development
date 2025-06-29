@@ -136,3 +136,4 @@
 
 ## 06/29/2025
 - Take care of your body equally, you'll fall behind if physically weak.
+- Solve problems one by one, and tackle post "win" moments.
