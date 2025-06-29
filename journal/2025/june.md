@@ -135,4 +135,4 @@
 - Taking better decisions are crucial, so reduce those options.
 
 ## 06/29/2025
-- 
+- Take care of your body equally, you'll fall behind if physically weak.
