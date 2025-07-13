@@ -37,4 +37,4 @@
 - 
 
 ## 07/13/2025
-- 
+- Do what your soul wants, otherwise you'll break down.
