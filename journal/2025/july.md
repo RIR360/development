@@ -45,4 +45,4 @@
 - 
 
 ## 07/15/2025
-- 
+- Make yourself confident by telling yourself that you're great.
