@@ -40,3 +40,9 @@
 - Do what your soul wants, otherwise you'll break down.
 - When you don't contribute to your purpose, theres' a inevitable collapse waiting.
 - Don't wait for any other time, do the compromises today until it's too late.
+
+## 07/14/2025
+- 
+
+## 07/15/2025
+- 
