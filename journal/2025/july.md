@@ -46,3 +46,4 @@
 
 ## 07/15/2025
 - Make yourself confident by telling yourself that you're great.
+- Doing things even everything is wrong is the key.
