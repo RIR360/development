@@ -50,3 +50,4 @@
 
 ## 07/16/2025
 - You must be a full time self improver first.
+- If you don't see progress you'll lose the motivation.
