@@ -56,3 +56,4 @@
 ## 07/17/2025
 - You must keep your progress clear to your eyes.
 - Don't get too comfortable after finishing a task.
+- Getting comfortable early is a trap that will slow you down.
