@@ -54,4 +54,4 @@
 - Don't lose the hope and make your own world of improvement.
 
 ## 07/17/2025
-- 
+- You must keep your progress clear to your eyes.
