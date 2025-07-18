@@ -59,4 +59,4 @@
 - Getting comfortable early is a trap that will slow you down.
 
 ## 07/18/2025
-- 
+- First you remove the bad then you put the good.
