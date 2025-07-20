@@ -62,3 +62,9 @@
 - First you remove the bad then you put the good.
 - First you need to get rid of the addictions if you wanna focus.
 - Distractions must go away, you must go through it.
+
+## 07/19/2025
+- 
+
+## 07/20/2025
+- 
