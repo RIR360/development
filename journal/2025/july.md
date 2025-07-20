@@ -68,3 +68,4 @@
 
 ## 07/20/2025
 - Fix your life by one single thing at a time.
+- In order to wake up fast, use a strong realiable alarm clock.
