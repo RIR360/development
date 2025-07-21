@@ -72,4 +72,4 @@
 - When you forced yourself to wake up first you'll sleep fast as well.
 
 ## 07/21/2025
-- 
+- A proper alarm system helps you wake up, that make you refreshed.
