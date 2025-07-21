@@ -74,3 +74,4 @@
 ## 07/21/2025
 - A proper alarm system helps you wake up, that make you refreshed.
 - The pleasure you get after working on yourself is amazing.
+- Your self progress is more important, even you do it a little it feels charming.
