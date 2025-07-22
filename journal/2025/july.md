@@ -78,3 +78,4 @@
 
 ## 07/22/2025
 - You have to sandwich tasks in a way that feels fulfilling not burden.
+- Working on yourself and working on projects should be balanced.
