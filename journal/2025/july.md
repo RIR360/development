@@ -77,4 +77,4 @@
 - Your self progress is more important, even you do it a little it feels charming.
 
 ## 07/22/2025
-- 
+- You have to sandwich tasks in a way that feels fulfilling not burden.
