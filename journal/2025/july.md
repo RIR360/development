@@ -87,3 +87,4 @@
 
 ## 07/24/2025
 - Mental peace is very important for existence.
+- Be careful about it, specially living in this era.
