@@ -90,3 +90,9 @@
 - Be careful about it, specially living in this era.
 - Best way to deal with it is, avoiding it altogether.
 - Only use a device when you need, keep distance from phone. 
+
+## 07/25/2025
+- 
+
+## 07/26/2025
+- 
