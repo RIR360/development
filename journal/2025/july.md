@@ -95,4 +95,4 @@
 - 
 
 ## 07/26/2025
-- 
+- Play dumb don't try to flex or play smart that's a trap.
