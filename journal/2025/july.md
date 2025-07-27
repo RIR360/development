@@ -98,3 +98,6 @@
 - Play dumb don't try to flex or play smart that's a trap.
 - People can lure you to do stuff if you get trapped that feeling of showing off.
 - Work in calculated way, don't show off even a little.
+
+## 07/27/2025
+- 
