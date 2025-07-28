@@ -107,3 +107,4 @@
 ## 07/28/2025
 - Take control of your financial system, money gives stress.
 - Properly understand your relapse pattern, to reduce guilt.
+- You must know how your brain thinks, otherwise it'll be manipulated easily.
