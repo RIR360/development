@@ -106,3 +106,4 @@
 
 ## 07/28/2025
 - Take control of your financial system, money gives stress.
+- Properly understand your relapse pattern, to reduce guilt.
