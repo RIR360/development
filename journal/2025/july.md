@@ -113,3 +113,4 @@
 - Nothing is actually hard if you approach it with proper plan and self control.
 - When you plan and list your brain take things seriously.
 - Self control is more like avoiding things early.
+- Make a mentality like what challenge I have to deal with now, let's face it.
