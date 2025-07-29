@@ -111,3 +111,4 @@
 
 ## 07/29/2021
 - Nothing is actually hard if you approach it with proper plan and self control.
+- When you plan and list your brain take things seriously.
