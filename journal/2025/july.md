@@ -114,3 +114,4 @@
 - When you plan and list your brain take things seriously.
 - Self control is more like avoiding things early.
 - Make a mentality like what challenge I have to deal with now, let's face it.
+- Keep a list of life problems that you have to fix as soon as possible.
