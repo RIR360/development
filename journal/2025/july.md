@@ -110,4 +110,4 @@
 - You must know how your brain thinks, otherwise it'll be manipulated easily.
 
 ## 07/29/2021
-- 
+- Nothing is actually hard if you approach it with proper plan and self control.
