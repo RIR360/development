@@ -109,9 +109,11 @@
 - Properly understand your relapse pattern, to reduce guilt.
 - You must know how your brain thinks, otherwise it'll be manipulated easily.
 
-## 07/29/2021
+## 07/29/2025
 - Nothing is actually hard if you approach it with proper plan and self control.
 - When you plan and list your brain take things seriously.
 - Self control is more like avoiding things early.
 - Make a mentality like what challenge I have to deal with now, let's face it.
 - Keep a list of life problems that you have to fix as soon as possible.
+
+## 07/30/2025
