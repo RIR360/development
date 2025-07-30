@@ -119,3 +119,4 @@
 ## 07/30/2025
 - Take breaks from the work, then think about your life.
 - You have to be proper serious about actions, don't go with the flow.
+- In the pursuit of being serious don't overload yourself with tasks.
