@@ -120,3 +120,4 @@
 - Take breaks from the work, then think about your life.
 - You have to be proper serious about actions, don't go with the flow.
 - In the pursuit of being serious don't overload yourself with tasks.
+- Make the priority list first then reduce the tasks that is not urgent.
