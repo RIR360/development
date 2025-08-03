@@ -8,3 +8,4 @@
 - It's only you who can take yourself out of the emotional trauma.
 - You have to jam your brain with good words, to overcome it.
 - Use a planned approach to deal with emotional breakdown in your way.
+- Jam your brain that it's automatically start taking things positively.
