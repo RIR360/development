@@ -9,3 +9,9 @@
 - You have to jam your brain with good words, to overcome it.
 - Use a planned approach to deal with emotional breakdown in your way.
 - Jam your brain that it's automatically start taking things positively.
+
+## 08/04/2025
+-
+
+## 08/05/2025
+-
