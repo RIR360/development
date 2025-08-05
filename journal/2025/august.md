@@ -16,3 +16,4 @@
 ## 08/05/2025
 - How you tackle the bad situation is your power.
 - When you're going through emotional burden, don't blame, it's a test.
+- Always think if you hold it, you'll crack something big, some skills.
