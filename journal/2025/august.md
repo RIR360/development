@@ -14,4 +14,4 @@
 -
 
 ## 08/05/2025
--
+- How you tackle the bad situation is your power.
