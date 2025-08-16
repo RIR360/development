@@ -51,3 +51,4 @@
 ## 08/16/2025
 - Life will teach you hard things, don't ignore the teachings.
 - Avoiding those teachings will just caught you at worse times.
+- Mental pressure, health problem are a good set of tests you must go through.
