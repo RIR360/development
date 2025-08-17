@@ -56,4 +56,4 @@
 - If you can't hold your ground, you may step back one leg but you never jump off.
 
 ## 08/19/2025
-- 
+- Controlling the bad feelings is the gold strategy that you can learn.
