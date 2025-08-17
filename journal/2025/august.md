@@ -57,3 +57,4 @@
 
 ## 08/19/2025
 - Controlling the bad feelings is the gold strategy that you can learn.
+- Do not blame why your life is like this, stand still to be rewarded.
