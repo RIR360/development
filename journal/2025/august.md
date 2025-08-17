@@ -59,3 +59,4 @@
 - Controlling the bad feelings is the gold strategy that you can learn.
 - Do not blame why your life is like this, stand still to be rewarded.
 - Learn the skills of dealing your tough moments without questining.
+- Believe you'll be reward in a way that you can't imagine now.
