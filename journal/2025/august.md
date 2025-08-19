@@ -65,4 +65,5 @@
 - Believe you'll be reward in a way that you can't imagine now.
 
 ## 08/19/2025
+- If you're a good person then most likely guilt is going to destroy you.
 - Clear it out from your side, and boom no guilt! then you're good to go.
