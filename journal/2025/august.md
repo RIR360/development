@@ -55,8 +55,14 @@
 - You feel from emotion, but act from your logic, move rationally.
 - If you can't hold your ground, you may step back one leg but you never jump off.
 
-## 08/19/2025
+## 08/17/2025
+- 
+
+## 08/18/2025
 - Controlling the bad feelings is the gold strategy that you can learn.
 - Do not blame why your life is like this, stand still to be rewarded.
 - Learn the skills of dealing your tough moments without questining.
 - Believe you'll be reward in a way that you can't imagine now.
+
+## 08/19/2025
+- 
