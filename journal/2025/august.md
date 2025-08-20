@@ -71,4 +71,4 @@
 - You're lord mostly likely won't forgive the wrong you did with others, so fix it yourself.
 
 ## 08/20/2025
-- 
+- After a storm build or fix your house (AKA Environment)
