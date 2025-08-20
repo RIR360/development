@@ -69,3 +69,6 @@
 - Clear it out from your side, and boom no guilt! then you're good to go.
 - Guilt is like a baggage that you can't and don't wanna carry for too long.
 - You're lord mostly likely won't forgive the wrong you did with others, so fix it yourself.
+
+## 08/20/2025
+- 
