@@ -74,3 +74,6 @@
 - After a storm build or fix your house (AKA Environment)
 - First utilize and use what you have before looking out the window.
 - System outperform willpower, so don't get confused what to focus first.
+
+## 08/21/2025
+- 
