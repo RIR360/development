@@ -85,3 +85,4 @@
 - You're an actor, you play your role in this life, keep it up.
 - Just like an actor, don't any questions that makes no sense.
 - Don't ask why those things happened to you earlier.
+- It's not your thing to wander what will happen in the future either.
