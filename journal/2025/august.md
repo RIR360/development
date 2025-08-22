@@ -84,3 +84,4 @@
 - Don't settle down, keep griding after the break.
 - You're an actor, you play your role in this life, keep it up.
 - Just like an actor, don't any questions that makes no sense.
+- Don't ask why those things happened to you earlier.
