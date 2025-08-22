@@ -81,4 +81,4 @@
 - After you stabilize your mental health focus on improving your situations.
 
 ## 08/22/2025
-- 
+- Don't settle down, keep griding after the break.
