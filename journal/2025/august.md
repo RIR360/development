@@ -88,4 +88,4 @@
 - It's not your thing to wander what will happen in the future either.
 
 ## 08/23/2025
-- 
+- The actor mindset is pretty solid, it can save you.
