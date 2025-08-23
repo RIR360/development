@@ -86,3 +86,6 @@
 - Just like an actor, don't any questions that makes no sense.
 - Don't ask why those things happened to you earlier.
 - It's not your thing to wander what will happen in the future either.
+
+## 08/23/2025
+- 
