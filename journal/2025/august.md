@@ -91,3 +91,4 @@
 - The actor mindset is pretty solid, it can save you.
 - Don't get hacked by other's talking, there's no guarantee.
 - Anybody can post on the social media, so that's not a solid source.
+- Stay biased on avoiding for most the social media things. 
