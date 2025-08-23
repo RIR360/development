@@ -89,3 +89,4 @@
 
 ## 08/23/2025
 - The actor mindset is pretty solid, it can save you.
+- Don't get hacked by other's talking, there's no guarantee. 
