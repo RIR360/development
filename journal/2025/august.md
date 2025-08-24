@@ -98,3 +98,4 @@
 - Your habit, your routine is your savior in difficult times.
 - It's so necessary that you'll get the re-assurance of your progress.
 - It's good that you have big goals, but your brain will forget.
+- So you must have your daily goals that can't be avoided.
