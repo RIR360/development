@@ -95,4 +95,4 @@
 - Don't get manipulated, you'll lose the quality of your acting.
 
 ## 08/24/2025
-- 
+- Your habit, your routine is your savior in difficult times.
