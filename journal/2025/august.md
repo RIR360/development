@@ -93,3 +93,6 @@
 - Anybody can post on the social media, so that's not a solid source.
 - Stay biased on avoiding for most the social media things.
 - Don't get manipulated, you'll lose the quality of your acting.
+
+## 08/24/2025
+- 
