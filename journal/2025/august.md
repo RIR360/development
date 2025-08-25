@@ -104,3 +104,4 @@
 - Keep yourself operational even when everything is just not right.
 - Keep following your routine even when your heart is craving someting you can't have.
 - Working hard alone is not the supreme win, working hard on bad days is.
+- Feel happy inside while you are still grinding knowing some things won't be the same again.
