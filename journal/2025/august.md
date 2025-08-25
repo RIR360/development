@@ -102,4 +102,5 @@
 
 ## 08/25/2025
 - Keep yourself operational even when everything is just not right.
-- Keep following your routine even when your heart is craving someting you can't have. 
+- Keep following your routine even when your heart is craving someting you can't have.
+- Working hard alone is not the supreme win, working hard on bad days is.
