@@ -107,4 +107,4 @@
 - Feel happy inside while you are still grinding knowing some things won't be the same again.
 
 ## 08/26/2025
-- 
+- When you reduce high dopamine works, you tend to enjoy low dopamine work.
