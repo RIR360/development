@@ -109,3 +109,4 @@
 ## 08/26/2025
 - When you reduce high dopamine works, you tend to enjoy low dopamine work.
 - Actor mindset is a killar mindset, it can kill your lazyness if you use it properly.
+- Don't look for motivation, rather think you have to finish your tasks anyway.
