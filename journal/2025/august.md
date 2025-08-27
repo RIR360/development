@@ -117,3 +117,4 @@
 - Safe break is a necessity, it won't take you out of your track.
 - Low dopamine breaks are always safe.
 - Don't let your brain think endlessly, because it'll just make things worse.
+- You must be in a point where you look for what is the next thing to accomplish.
