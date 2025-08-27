@@ -113,4 +113,5 @@
 - Keep one primary, visible goal to achieve where you can jump again and again.
 
 ## 08/27/2025
-- You'll feel tired at some point after pushing, you can take controlled break but you must keep acting.
+- You'll feel tired at some point after pushing, you can take safe break but you must keep acting.
+- Safe breaks is necessary, it won't take you out of your track.
