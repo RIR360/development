@@ -116,3 +116,4 @@
 - You'll feel tired at some point after pushing, you can take safe break but you must keep acting.
 - Safe break is a necessity, it won't take you out of your track.
 - Low dopamine breaks are always safe.
+- Don't let your brain think endlessly, because it'll just make things worse.
