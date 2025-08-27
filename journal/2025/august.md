@@ -118,3 +118,4 @@
 - Low dopamine breaks are always safe.
 - Don't let your brain think endlessly, because it'll just make things worse.
 - You must be in a point where you look for what is the next thing to accomplish.
+- You can and should shuffle work back and forth to avoid getting burned out.
