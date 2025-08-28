@@ -124,3 +124,4 @@
 - You take away the bad habits, good habits form automatically.
 - Breaking the bad ones are the trickest part, but there's not other way around.
 - You a "WHY" more powerful than the bad habit itself.
+- "Why avoiding the habit beneficial to me?" - you must answer this to your brain.
