@@ -121,4 +121,4 @@
 - You can and should shuffle work back and forth to avoid getting burned out.
 
 ## 08/28/2025
-- 
+- You take away the bad habits, good habits form automatically.
