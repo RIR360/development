@@ -129,4 +129,4 @@
 - You can also trick the brain by answering, doing this will take away that (something more precious).
 
 ## 08/29/2025
-- 
+- Find ways to solve things, don't think you're weaker than the problem.
