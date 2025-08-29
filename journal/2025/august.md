@@ -130,3 +130,4 @@
 
 ## 08/29/2025
 - Find ways to solve things, don't think you're weaker than the problem.
+- Write your achievements, your brain tend to forget them easily.
