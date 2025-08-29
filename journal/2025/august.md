@@ -127,3 +127,6 @@
 - "Why avoiding the habit beneficial to me?" - you must answer this to your brain.
 - If you answer it strongly, your brain won't cause any problem anymore.
 - You can also trick the brain by answering, doing this will take away that (something more precious).
+
+## 08/29/2025
+- 
