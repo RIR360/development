@@ -140,3 +140,4 @@
 - If something is helpful for you but hard, you brain will try to avoid it slowly.
 - A mindset also fades out justt because of this, so you must re-ignite the fire.
 - You can feel things are fading away but not all the time you know what to do.
+- At that very moment, shut everything off, close your eyes and think your next move.
