@@ -136,4 +136,4 @@
 - Always choose to be sad rather than being happy with fake stuff.
 
 ## 08/30/2025
-- 
+- Building a mindset is tough, nothing will work if you don't hold it for enough time.
