@@ -137,3 +137,4 @@
 
 ## 08/30/2025
 - Building a mindset is tough, nothing will work if you don't hold it for enough time.
+- If something is helpful for you but hard, you brain will try to avoid it slowly.
