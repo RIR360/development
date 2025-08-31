@@ -143,4 +143,4 @@
 - At that very moment, shut everything off, close your eyes and think your next move.
 
 ## 08/31/2025
-- 
+- It's not just good to tell yourself that you're the best, it's the necessity.
