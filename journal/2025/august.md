@@ -141,3 +141,6 @@
 - A mindset also fades out justt because of this, so you must re-ignite the fire.
 - You can feel things are fading away but not all the time you know what to do.
 - At that very moment, shut everything off, close your eyes and think your next move.
+
+## 08/31/2025
+- 
