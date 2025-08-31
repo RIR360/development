@@ -146,3 +146,4 @@
 - It's not just good to tell yourself that you're the best, it's the necessity.
 - Real life is so uncertain, literary everyday you'll face difficulties guaranteed.
 - So instead of depending on that, it's better to constantly say good about yourself.
+- Even it's not reality but you're doesn't know the difference anyway.
