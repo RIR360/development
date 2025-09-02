@@ -5,4 +5,4 @@
 - The darwback is this you may fall into comfortzone but you must resist that.
 
 ## 08/02/2025
-- 
+- Time flies to fast, emotional breakdown seems to be illegal.
