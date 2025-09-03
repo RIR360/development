@@ -11,4 +11,4 @@
 - Your acceleration must be high enough to catch up with the speed of time.
 
 ## 08/03/2025
-- 
+- Don't keep any bad habit with you, get rid of them all.
