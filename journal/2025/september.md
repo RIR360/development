@@ -9,3 +9,6 @@
 - Make your systems so smooth that a bunch of works goes one after another.
 - The more smoother your system is the more you can accelerate.
 - Your acceleration must be high enough to catch up with the speed of time.
+
+## 08/03/2025
+- 
