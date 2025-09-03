@@ -13,3 +13,4 @@
 ## 08/03/2025
 - Don't keep any bad habit with you, get rid of them all.
 - If you wanna avoid something, hate it, don't keep it in the middle zone.
+- Pornography is one of the strongest bad habit that people should get rid of.
