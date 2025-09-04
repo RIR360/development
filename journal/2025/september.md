@@ -18,4 +18,4 @@
 - Restrict, Re-train, Reward your breain with better things (that may feel less fun but worth it).
 
 ## 08/04/2025
-- 
+- In order to stay in focus you must be mentally strong.
