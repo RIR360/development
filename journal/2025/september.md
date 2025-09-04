@@ -20,3 +20,4 @@
 ## 08/04/2025
 - In order to stay in focus you must be mentally strong.
 - If you anyhow manage to never postpone any hard work, that'll do it.
+- Just tell your brain, you're strong, you're stronger than the task.
