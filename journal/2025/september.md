@@ -16,3 +16,6 @@
 - Pornography is one of the strongest bad habit that people should get rid of.
 - It is one of the toughest job for anyone, but possible by rewiring your brain.
 - Restrict, Re-train, Reward your breain with better things (that may feel less fun but worth it).
+
+## 08/04/2025
+- 
