@@ -21,4 +21,5 @@
 - In order to stay in focus you must be mentally strong.
 - If you anyhow manage to never postpone any hard work, that'll do it.
 - Just tell your brain, you're strong, you're stronger than the task.
-- You can also tell your brain let's do this work first and see how it feels. 
+- You can also tell your brain let's do this work first and see how it feels.
+- You don't fear doing anything (if you have time) = You're mentally strong.
