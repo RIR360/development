@@ -23,3 +23,6 @@
 - Just tell your brain, you're strong, you're stronger than the task.
 - You can also tell your brain let's do this work first and see how it feels.
 - You don't fear doing anything (if you have time) = You're mentally strong.
+
+## 08/05/2025
+- 
