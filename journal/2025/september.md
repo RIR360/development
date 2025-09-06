@@ -31,3 +31,4 @@
 - Replacement is the key, you must replace, take that seriously.
 - If you got a lot of entertainment stuffs, trade all of them with one first.
 - When the urges come, you say your brain to wait for the final reward.
+- As the final reward is enough dopamine worthy you're brain will hold.
