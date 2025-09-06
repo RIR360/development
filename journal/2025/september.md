@@ -28,4 +28,4 @@
 - 
 
 ## 08/06/2025
-- 
+- Replacement is the key, you must replace, take that seriously.
