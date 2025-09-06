@@ -29,3 +29,4 @@
 
 ## 08/06/2025
 - Replacement is the key, you must replace, take that seriously.
+- If you got a lot of entertainment stuffs, trade all of them with one first.
