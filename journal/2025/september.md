@@ -33,3 +33,6 @@
 - When the urges come, you say your brain to wait for the final reward.
 - As the final reward is enough dopamine giving you're brain will hold.
 - And after that very moment, you start reducing the dopamine level of the final reward, voila!
+
+## 08/07/2025
+- 
