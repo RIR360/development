@@ -35,4 +35,4 @@
 - And after that very moment, you start reducing the dopamine level of the final reward, voila!
 
 ## 08/07/2025
-- 
+- Stick to your words, stick to the plan, hold your ground.
