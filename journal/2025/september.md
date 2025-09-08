@@ -40,4 +40,4 @@
 - Believe in the process, don't have any doubts on yourself.
 
 ## 08/08/2025
-- 
+- You can't live without those desires, so you control them.
