@@ -43,3 +43,4 @@
 - You can't live without those desires, so you control them.
 - Instead of grounding yourself instantly, you do it gradually.
 - You may fail to detox properly if your brain is heavily wired to dopamine.
+- So the best way to tackle this is reducing dopamine sources one by one.
