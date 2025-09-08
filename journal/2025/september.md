@@ -41,3 +41,4 @@
 
 ## 08/08/2025
 - You can't live without those desires, so you control them.
+- Instead of grounding yourself instantly, you do it gradually.
