@@ -48,3 +48,4 @@
 ## 09/09/2025
 - Your vision and perspective matters a lot.
 - If you learn to take things positivly it's can change your life.
+- A situation can change depending on your viewpoint.
