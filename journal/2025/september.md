@@ -46,4 +46,4 @@
 - So the best way to tackle this is reducing dopamine sources one by one.
 
 ## 09/09/2025
-- 
+- Your vision and perspective matters a lot.
