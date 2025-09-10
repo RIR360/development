@@ -53,3 +53,4 @@
 
 ## 09/10/2025
 - Fighting with the past truma is often very critical.
+- How your brain learned to link something with bad feeling is hard to fix.
