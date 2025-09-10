@@ -50,3 +50,6 @@
 - If you learn to take things positivly it's can change your life.
 - A situation can change depending on your viewpoint.
 - You may not realize, you're losing control on situations because you're not positive.
+
+## 09/10/2025
+- 
