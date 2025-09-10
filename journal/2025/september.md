@@ -52,4 +52,4 @@
 - You may not realize, you're losing control on situations because you're not positive.
 
 ## 09/10/2025
-- 
+- Fighting with the past truma is often very critical.
