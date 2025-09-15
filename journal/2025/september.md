@@ -68,4 +68,4 @@
 - 
 
 ## 09/15/2025
-- 
+- Do not underestimate the mental triggers, those can really take you down.
