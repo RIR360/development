@@ -69,3 +69,4 @@
 
 ## 09/15/2025
 - Do not underestimate the mental triggers, those can really take you down.
+- Triggers can really open the closed wounds you had, so be careful.
