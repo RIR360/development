@@ -72,4 +72,4 @@
 - Triggers can really open the closed wounds you had, so be careful.
 
 ## 09/16/2025
-- 
+- Don't take everything on your head, don't bear all the burden.
