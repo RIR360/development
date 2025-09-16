@@ -74,3 +74,4 @@
 ## 09/16/2025
 - Don't take everything on your head, don't bear all the burden.
 - If you don't take the gift from someone, it remains to them.
+- So don't take trauma, guilt, mental pressures from people.
