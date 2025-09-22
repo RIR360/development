@@ -85,3 +85,4 @@
 - When bad situations happen, you have to ask what can I learn from here.
 - IF you don't learn anything from the situations then you should be worried.
 - Those situations will be repeated, why? because you didn't learn.
+- Do the rational test, what would you suggest to someone else in this case?
