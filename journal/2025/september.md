@@ -82,4 +82,4 @@
 ## 09/20/2025
 ## 09/21/2025
 ## 09/22/2025
-- 
+- When bad situations happen, you have to ask what can I learn from here.
