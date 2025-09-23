@@ -91,3 +91,4 @@
 ## 09/23/2025
 - Some situations shouldn't be escaped, those should be processed instead.
 - You may feel it's hurting but sometimes it's a kind of training.
+- If you don't improve your emotional intelligence you'll find yourself in the same trap again and again.
