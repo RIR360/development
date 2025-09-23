@@ -89,4 +89,4 @@
 - Do the rational test, what would you suggest to someone else in this case?
 
 ## 09/23/2025
-- 
+- Some situations shouldn't be escaped, those should be processed instead.
