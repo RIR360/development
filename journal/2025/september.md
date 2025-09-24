@@ -97,3 +97,4 @@
 - Don't rely on any human, nobody except your God.
 - People will change willingly or even un-willingly and put you empty inside.
 - When God is your center of the things you have, then you never run of out things to live for.
+- This is a crucial component that fulfill a heart.
