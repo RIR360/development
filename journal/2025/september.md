@@ -94,4 +94,5 @@
 - If you don't improve your emotional intelligence you'll find yourself in the same trap again and again.
 
 ## 09/24/2025
-- Don't rely to any human, nobody except your lord.
+- Don't rely on any human, nobody except your lord.
+- People will change willingly or even un-willingly and put you empty inside.
