@@ -100,4 +100,4 @@
 - This is a crucial component that fulfill a heart.
 
 ## 09/25/2025
-- 
+- Always tell good to yourself, even if that's 50% true.
