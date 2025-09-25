@@ -102,3 +102,4 @@
 ## 09/25/2025
 - Always tell good to yourself, even if that's 50% true.
 - Being positive plays a vital role for mental stability.
+- It doesn't matter how you convicne, but your brain must feel it's out of danger.
