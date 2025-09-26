@@ -106,4 +106,4 @@
 - Problem solving is the most important skill in this AI Era.
 
 ## 09/26/2025
-- 
+- If you're not doing anything useless, then you must be doing something better.
