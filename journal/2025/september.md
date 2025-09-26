@@ -108,3 +108,4 @@
 ## 09/26/2025
 - If you're not doing anything useless, then you must be doing something better.
 - Mindless scrolling brings no joy, stop it and see you'll find an alternative soon.
+- When nothing is fixing, start avoiding the tiggers, that's the quickest fix.
