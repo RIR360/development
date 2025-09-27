@@ -110,3 +110,6 @@
 - Mindless scrolling brings no joy, stop it and see you'll find an alternative soon.
 - When nothing is fixing, start avoiding the tiggers, that's the quickest fix.
 - When finding solutions is not feasible, avoidance is the key.
+
+## 09/27/2025
+- 
