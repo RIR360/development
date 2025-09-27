@@ -114,3 +114,4 @@
 ## 09/27/2025
 - Turst the actions even the path is unclear. Walk in power.
 - Remember to not think about anything for too long, it'll make you stuck.
+- No matter what, don't forget to take it easy, it's nothing serious.
