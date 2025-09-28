@@ -120,3 +120,4 @@
 ## 09/28/2025
 - Do not complicate the life, make it easy.
 - Clarity is important in everywhere, so keep that in mind.
+- You're brain sometimes needs proper prrof to be calm.
