@@ -123,4 +123,5 @@
 - You're brain sometimes needs proper prrof to be calm.
 
 ## 09/29/2025
+- When you're taking a decision, think enough but not too much.
 - 
