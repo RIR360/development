@@ -125,3 +125,4 @@
 ## 09/29/2025
 - When you're taking a decision, think enough but not too much.
 - If you the decision went wrong, never regret even for a fraction of time.
+- Believe in the process, it was meant to be like this, not totally your fault.
