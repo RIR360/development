@@ -131,3 +131,4 @@
 ## 09/30/2025
 - Action take away depressionm, so stop thinking and take action.
 - Over-thinking will create fear and reduce your ability.
+- If by any means you create a fear towards a task, you procrastinate it.
