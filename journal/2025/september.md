@@ -130,3 +130,4 @@
 
 ## 09/30/2025
 - Action take away depressionm, so stop thinking and take action.
+- Over-thinking will create fear and reduce your ability.
