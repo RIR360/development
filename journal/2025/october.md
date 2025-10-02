@@ -7,3 +7,4 @@
 ## 10/02/2025
 - Plan your actions and think nothing else, do them.
 - Even if things go wrong, atlest you learned something new.
+- Planning things ahead always keeps your head light.
