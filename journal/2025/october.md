@@ -5,4 +5,4 @@
 - Do the tasks with a mindset that you're completing your missions.
 
 ## 10/02/2025
-- 
+- Plan your actions and think nothing else, do them.
