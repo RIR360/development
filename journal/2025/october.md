@@ -3,3 +3,6 @@
 - Plan the tasks that needs to be done, today and this week.
 - Don't put too many things on the plate as well.
 - Do the tasks with a mindset that you're completing your missions.
+
+## 10/02/2025
+- 
