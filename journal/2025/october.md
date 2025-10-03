@@ -13,3 +13,4 @@
 ## 10/03/2025
 - Prioritize the tasks, do the most urgent and important one first.
 - Don't rely on what you like, rely on what you need to do.
+- We have ups and downs every now and then so plan ahead.
