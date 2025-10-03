@@ -11,4 +11,4 @@
 - N8N is a great automation tool that has endless possibilities.
 
 ## 10/03/2025
-- 
+- Prioritize the tasks, do the most urgent and important one first.
