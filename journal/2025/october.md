@@ -17,4 +17,4 @@
 - When it's time for action, don't plan.
 
 ## 10/04/2025
-- 
+- Do the hardest thing for you now, it'll provide the best outcome.
