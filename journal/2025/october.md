@@ -18,4 +18,5 @@
 
 ## 10/04/2025
 - Do the hardest thing for you now, it'll provide the best outcome.
-- Everything seems hard before you do it. 
+- Everything seems hard before you do it.
+- Be positive and think that you're doing fine, even you don't feel like.
