@@ -20,3 +20,4 @@
 - Do the hardest thing for you now, it'll provide the best outcome.
 - Everything seems hard before you do it.
 - Be positive and think that you're doing fine, even you don't feel like.
+- Feeling is driven by emotion that is not logically true all the time.
