@@ -15,3 +15,6 @@
 - Don't rely on what you like, rely on what you need to do.
 - We have ups and downs every now and then so plan ahead.
 - When it's time for action, don't plan.
+
+## 10/04/2025
+- 
