@@ -25,3 +25,4 @@
 ## 10/05/2025
 - The "Why" is one of the most important motivation.
 - If you don't feel like doing something, then tell your brain why you're doing it constantly.
+- The why must be bigger than the pain you're trying to overcome.
