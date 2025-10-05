@@ -23,4 +23,4 @@
 - Feeling is driven by emotion that is not logically true all the time.
 
 ## 10/05/2025
-- 
+- The "Why" is one of the most important motivation.
