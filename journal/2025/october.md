@@ -33,3 +33,4 @@
 - When you're feeling resistance about any task, remind yourself the why.
 - Why you're doing these hardship in the first place, you're brain needs to listen it everytime.
 - Brain will create strong resistance to everything unless you give the clarity.
+- Alongside with the why, think what my best version would do in this case.
