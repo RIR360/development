@@ -29,4 +29,4 @@
 - Your brain won't move an obstackle if you think it doesn't bother you.
 
 ## 10/06/2025
-- 
+- Be the like the best version of you and be proud of you.
