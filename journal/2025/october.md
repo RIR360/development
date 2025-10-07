@@ -39,3 +39,4 @@
 - Even if the days go easy, don't forget your principals.
 - Keep improving your system, it's always necessary.
 - Put time on yourself, make something for yourself.
+- Consider your daily tasks as a mission of your game.
