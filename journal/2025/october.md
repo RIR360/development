@@ -36,4 +36,4 @@
 - Alongside with the why, think what my best version would do in this case.
 
 ## 10/07/2025
-- 
+- Even if the days go easy, don't forget your principals.
