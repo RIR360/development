@@ -37,3 +37,4 @@
 
 ## 10/07/2025
 - Even if the days go easy, don't forget your principals.
+- Keep improving your system, it's always necessary.
