@@ -34,3 +34,6 @@
 - Why you're doing these hardship in the first place, you're brain needs to listen it everytime.
 - Brain will create strong resistance to everything unless you give the clarity.
 - Alongside with the why, think what my best version would do in this case.
+
+## 10/07/2025
+- 
