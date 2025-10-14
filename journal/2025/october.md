@@ -40,3 +40,24 @@
 - Keep improving your system, it's always necessary.
 - Put time on yourself, make something for yourself.
 - Consider your daily tasks as a mission of your game.
+
+## 10/08/2025
+- 
+
+## 10/09/2025
+- 
+
+## 10/10/2025
+- 
+
+## 10/11/2025
+- 
+
+## 10/12/2025
+- 
+
+## 10/13/2025
+- 
+
+## 10/14/2025
+- 
