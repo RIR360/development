@@ -61,3 +61,4 @@
 
 ## 10/14/2025
 - Taking too much work load will put you off track.
+- You must keep your calendar and priority task list checked.
