@@ -60,4 +60,4 @@
 - 
 
 ## 10/14/2025
-- 
+- Taking too much work load will put you off track.
