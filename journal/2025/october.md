@@ -66,3 +66,4 @@
 
 ## 10/15/2025
 - Some urgent and important tasks will take chunk of your time, you must be prepared for that.
+- No matter how big is the workload is, you must not go off your track.
