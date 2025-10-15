@@ -68,3 +68,4 @@
 - Some urgent and important tasks will take chunk of your time, you must be prepared for that.
 - No matter how big is the workload is, you must not go off your track.
 - Stay calm in every situations, don't get too nervous even if you experience something bad.
+- We usually lose control when we suspect the upcoming events are going to be bad, but it doesn't matter.
