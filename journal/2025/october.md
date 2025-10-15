@@ -65,4 +65,4 @@
 - If any extra load pushes you out of your discipline then your backbone breaks.
 
 ## 10/15/2025
-- 
+- Some urgent and important tasks will take chunk of your time, you must be prepared for that.
