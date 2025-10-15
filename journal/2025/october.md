@@ -63,3 +63,6 @@
 - Taking too much work load will put you off track.
 - You must keep your calendar and priority task list checked.
 - If any extra load pushes you out of your discipline then your backbone breaks.
+
+## 10/15/2025
+- 
