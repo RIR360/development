@@ -76,3 +76,4 @@
 ## 10/17/2025
 - Sometimes the problem is not being able to handle emotional hits.
 - You may wonder how to stop social media habit, but can you handle the bad events?
+- Every bad events, emotional burden leads you to a bad habit.
