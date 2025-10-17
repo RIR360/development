@@ -74,4 +74,4 @@
 - 
 
 ## 10/17/2025
-- 
+- Sometimes the problem is not being able to handle emotional hits. 
