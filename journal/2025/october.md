@@ -80,4 +80,4 @@
 - So you must know how to deal with them without escaping first.
 
 ## 10/18/2025
-- 
+- If you can't stay motivated, you have to make a strong system.
