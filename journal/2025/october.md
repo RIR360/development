@@ -81,3 +81,4 @@
 
 ## 10/18/2025
 - If you can't stay motivated, you have to make a strong system.
+- Make a strong, organized system that will help you stay on the track.
