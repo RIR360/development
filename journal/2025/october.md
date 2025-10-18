@@ -78,3 +78,6 @@
 - You may wonder how to stop social media habit, but can you handle the bad events?
 - Every bad event, emotional burden leads you to a bad habit.
 - So you must know how to deal with them without escaping first.
+
+## 10/18/2025
+- 
