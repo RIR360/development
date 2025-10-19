@@ -88,3 +88,4 @@
 ## 10/19/2025
 - You gotta take things easy, let things pass for you own good.
 - Reminder: If you can make your brain feel risk free, it'll let go any events.
+- Brain do not bother on stuff that seems okay, no threats no tension.
