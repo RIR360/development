@@ -90,3 +90,6 @@
 - Reminder: If you can make your brain feel risk free, it'll let go any events.
 - Brain do not bother on stuff that seems okay, no threats no tension.
 - Sometimes the core technologies are better and gives you full control.
+
+## 10/20/2025
+- 
