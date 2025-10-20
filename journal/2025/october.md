@@ -92,4 +92,4 @@
 - Sometimes the core technologies are better and gives you full control.
 
 ## 10/20/2025
-- 
+- Sometimes you gotta accept it solely for your own wellbeing.
