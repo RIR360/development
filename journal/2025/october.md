@@ -93,3 +93,4 @@
 
 ## 10/20/2025
 - Sometimes you gotta accept it solely for your own wellbeing.
+- Plan and action, and keep both in the moderation.
