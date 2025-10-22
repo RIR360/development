@@ -104,4 +104,5 @@
 ## 10/22/2025
 - Hold your ground strong enough, that nothing shakes you up.
 - Make your system faster so you have less friction day by day.
-- Code safety is crucial for the applications you submit.
+- Code safety is crucial for the applications you make and provide.
+- But it's not always 100% safe if the code base is deliverd to the client.
