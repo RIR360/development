@@ -104,3 +104,4 @@
 ## 10/22/2025
 - Hold your ground strong enough, that nothing shakes you up.
 - Make your system faster so you have less friction day by day.
+- Code safety is crucial for the applications you submit.
