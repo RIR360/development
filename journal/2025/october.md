@@ -97,3 +97,9 @@
 - Visual cue is the strongest motivation you can use.
 - Keep things that are important in the plain sight.
 - Sub-concious brain plays a lot in our roles.
+
+## 10/21/2025
+- 
+
+## 10/22/2025
+- 
