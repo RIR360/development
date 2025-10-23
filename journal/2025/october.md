@@ -112,3 +112,4 @@
 - One of the powerful winning strategy in life is having no fear.
 - Automation tools improves your workflow a lot but keep things abstruct. 
 - You can increase the comfort but not too much.
+- Your brain is your CPU that must keep solving problems.
