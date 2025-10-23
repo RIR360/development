@@ -111,3 +111,4 @@
 - You may slip away often, but it's a win if you can comeback fast.
 - One of the powerful winning strategy in life is having no fear.
 - Automation tools improves your workflow a lot but keep things abstruct. 
+- You can increase the comfort but not too much.
