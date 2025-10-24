@@ -116,3 +116,4 @@
 
 ## 10/24/2025
 - Take away everything from your lifestyle that slows you down.
+- If you do anything that blocks you from doing any progress then avoid that.
