@@ -115,4 +115,4 @@
 - Your brain is your CPU that must keep solving problems.
 
 ## 10/24/2025
-- 
+- Take away everything from your lifestyle that slows you down.
