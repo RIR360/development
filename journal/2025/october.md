@@ -118,3 +118,4 @@
 - Take away everything from your lifestyle that slows you down.
 - If you do anything that blocks you from doing any progress then avoid that.
 - Those things must be eradicated from your current schedule in any means.
+- If you can't stop, atleast convince your brain to enjoy it later.
