@@ -124,4 +124,4 @@
 - 
 
 ## 10/27/2025
-- 
+- Doing technical jobs are too tricky and strategy driven.
