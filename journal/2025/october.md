@@ -119,3 +119,9 @@
 - If you do anything that blocks you from doing any progress then avoid that.
 - Those things must be eradicated from your current schedule in any means.
 - If you can't stop, atleast convince your brain to enjoy it later.
+
+## 10/26/2025
+- 
+
+## 10/27/2025
+- 
