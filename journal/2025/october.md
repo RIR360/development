@@ -127,3 +127,4 @@
 - Doing technical jobs are too tricky and strategy driven.
 - You can be working for hours and output no visible thing.
 - Finding the MVP (Minimum Viable Product) is the trickiest part.
+- To satisfy the clients, you must present things good rather than anything else.
