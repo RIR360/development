@@ -129,3 +129,6 @@
 - Finding the MVP (Minimum Viable Product) is the trickiest part.
 - To satisfy the clients, you must present things good rather than anything else.
 - Most of them don't know what takes 10 minutes and what takes an hour.
+
+## 10/28/2025
+- 
