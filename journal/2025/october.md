@@ -133,3 +133,4 @@
 ## 10/28/2025
 - After a emotional hit, recover quickly instead of thinking bad.
 - The quicker recovery marks the winner of life.
+- Before a client meeting always do dry run with the topics listed.
