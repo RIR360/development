@@ -137,4 +137,5 @@
 - Dump things in to list instead of storing in the brain.
 
 ## 10/28/2025
+- Stay calm when the emotional trauma hits you hard.
 - 
