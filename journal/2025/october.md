@@ -141,3 +141,4 @@
 - Never stay in the loophole, convince your mind to deal with it later.
 - Talk with yourself, remind your mind that you must keep moving on.
 - Things will never be perfect all the time, so you take it easy.
+- Learn how to "Not taking things personally".
