@@ -138,4 +138,4 @@
 
 ## 10/28/2025
 - Stay calm when the emotional trauma hits you hard.
-- 
+- Never stay in the loophole, convince your mind to deal with it later.
