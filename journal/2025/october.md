@@ -120,18 +120,21 @@
 - Those things must be eradicated from your current schedule in any means.
 - If you can't stop, atleast convince your brain to enjoy it later.
 
-## 10/26/2025
+## 10/25/2025
 - 
 
-## 10/27/2025
+## 10/26/2025
 - Doing technical jobs are too tricky and strategy driven.
 - You can be working for hours and output no visible thing.
 - Finding the MVP (Minimum Viable Product) is the trickiest part.
 - To satisfy the clients, you must present things good rather than anything else.
 - Most of them don't know what takes 10 minutes and what takes an hour.
 
-## 10/28/2025
+## 10/27/2025
 - After a emotional hit, recover quickly instead of thinking bad.
 - The quicker recovery marks the winner of life.
 - Before a client meeting always do dry run with the topics listed.
 - Dump things in to list instead of storing in the brain.
+
+## 10/28/2025
+- 
