@@ -145,4 +145,5 @@
 
 ## 10/29/2025
 - Forget the people, but keep the learnings.
-- In this technical era, you must choose a field an become expert.
+- In this technical era, you must choose a field and become an expert.
+- AI is surely gonna make things easy and hard for some.
