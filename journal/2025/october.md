@@ -144,4 +144,4 @@
 - Learn how to "Not taking things personally".
 
 ## 10/29/2025
-- 
+- Forget the people, but keep the learnings.
