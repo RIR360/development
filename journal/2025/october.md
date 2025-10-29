@@ -145,3 +145,4 @@
 
 ## 10/29/2025
 - Forget the people, but keep the learnings.
+- In this technical era, you must choose a field an become expert.
