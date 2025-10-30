@@ -154,3 +154,4 @@
 - Technologies are eveloving so fast, but everything lies on the same foundation.
 - Web servers can be build with a lot of stacks but the fundamental logics are same.
 - You must grasp the ideas of the foundation very well that you can build things on it.
+- Keep a core skills for yourself, your core expertise as a foundtation.
