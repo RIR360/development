@@ -150,4 +150,4 @@
 - Focusing on the backend and integrating is more important nowadays.
 
 ## 10/30/2025
-- 
+- Be gentle on yourself, deal with less things.
