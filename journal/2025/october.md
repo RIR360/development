@@ -151,3 +151,4 @@
 
 ## 10/30/2025
 - Be gentle on yourself, deal with less things.
+- Technologies are eveloving so fast, but everything lies on the same foundation.
