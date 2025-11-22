@@ -61,3 +61,4 @@
 ## 11/22/2025
 - Don't think, you don't have to think when everything is planned.
 - The more you think the more your brain get chance to counter.
+- Planning gives you advantage but overthinking will throw you off the track.
