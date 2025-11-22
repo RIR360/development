@@ -62,4 +62,5 @@
 - Don't think, you don't have to think when everything is planned.
 - The more you think the more your brain get chance to counter.
 - Planning gives you advantage but overthinking will throw you off the track.
-- Be dumb, do the work without thinking if you can take the day off or not.
+- When things are not working as your planing, suffle the works.
+- You must make yourself feel good doing something that is important.
