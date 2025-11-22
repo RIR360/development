@@ -66,3 +66,4 @@
 - You must make yourself feel good doing something that is important.
 - Failure is the part of the journey, you'll fail a lot, take it also as a learning.
 - Sometimes you have to present your failure in a creative way, so you can tell your employers.
+- After all, don't think. Even after a good event or a bad event.
