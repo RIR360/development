@@ -64,3 +64,4 @@
 - Planning gives you advantage but overthinking will throw you off the track.
 - When things are not working as your planing, suffle the works.
 - You must make yourself feel good doing something that is important.
+- Failure is the part of the journey, you'll fail a lot, take it also as a learning.
