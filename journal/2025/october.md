@@ -29,7 +29,7 @@
 - Your brain won't move an obstackle if you think it doesn't bother you.
 
 ## 10/06/2025
-- Be the like the best version of you and be proud of you.
+- Be the best version of you and be proud of you.
 - When you're feeling resistance about any task, remind yourself the why.
 - Why you're doing these hardship in the first place, you're brain needs to listen it everytime.
 - Brain will create strong resistance to everything unless you give the clarity.
