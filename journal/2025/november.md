@@ -68,3 +68,33 @@
 - Sometimes you have to present your failure in a creative way, so you can tell your employers.
 - After all, don't think. Even after a good event or a bad event.
 - Be careless of your feelings, that's the only way you can be ruthless.
+
+## 11/23/2025
+-
+
+## 11/24/2025
+-
+
+## 11/25/2025
+-
+
+## 11/25/2025
+-
+
+## 11/26/2025
+-
+
+## 11/27/2025
+-
+
+## 11/28/2025
+-
+
+## 11/29/2025
+-
+
+## 11/30/2025
+-
+
+## 11/31/2025
+-
