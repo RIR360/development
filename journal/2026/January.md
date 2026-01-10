@@ -28,4 +28,4 @@
 ## 01/10/2026
 - Work with deadlines, let it span a month or just half an hour.
 - Next JS's Partial Prerendering (PPR) is awesome and amazing.
-- It's available in version 16, where server sends the html (shell) immediately.
+- It's available in version 16, where server sends the html (shell) immediately then stream dynamic data.
