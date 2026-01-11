@@ -32,3 +32,4 @@
 
 ## 01/11/2026
 - The decision fatigue is a real thing, but you can't stop and be numb.
+- Don't avoid the situation instead deal with it and find the next tiny solution.
