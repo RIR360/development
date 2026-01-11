@@ -31,4 +31,4 @@
 - It's available in version 16, where server sends the html (shell) immediately then stream dynamic data.
 
 ## 01/11/2026
-- 
+- The decision fatigue is a real thing, but you can't stop and be numb.
