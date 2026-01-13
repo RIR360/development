@@ -35,3 +35,6 @@
 - Don't avoid the situation instead deal with it and find the next tiny solution.
 - You'll always regreat of stopping in any bad situations.
 - Technology is going super fast, but you gotta make your foundation stronger to stand still.
+
+## 01/12/2026
+- 
