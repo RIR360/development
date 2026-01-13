@@ -39,3 +39,4 @@
 ## 01/12/2026
 - Errors are features, handling them smoothly is a surviving skill.
 - Always expect errors from a system so you take care of it.
+- Process lie but logs don't, so write critical info in log files.
