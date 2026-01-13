@@ -37,4 +37,4 @@
 - Technology is going super fast, but you gotta make your foundation stronger to stand still.
 
 ## 01/12/2026
-- 
+- Errors are features, handling them smoothly is a surviving skill.
